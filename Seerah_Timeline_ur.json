@@ -1,0 +1,3088 @@
+[
+  {
+    "id": "birth",
+    "title": "نبی کریم حضرت محمد ﷺ کی ولادت",
+    "commentary": [
+      "آپ ﷺ عام الفیل میں پیر کی صبح مکہ میں بنو ہاشم کے محلے میں پیدا ہوئے۔",
+      "آپ کے دادا عبدالمطلب آپ کو کعبہ لے گئے، اللہ کا شکر ادا کیا اور آپ کا نام محمد رکھا، جو اُس زمانے میں عربوں میں کم رکھا جاتا تھا۔"
+    ],
+    "notes": "کتاب 20 یا 22 اپریل 571ء بتاتی ہے (سلیمان منصورپوری اور محمود پاشا کے حوالے سے)؛ ان میں 20 اپریل وہ تاریخ ہے جو پیر کے دن پڑتی ہے۔ بعض دوسرے علما 12 ربیع الاول بتاتے ہیں۔",
+    "hijri-date": "پیر، 9 ربیع الاول، عام الفیل",
+    "start": "0571-04-20",
+    "period": "pre-prophethood",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "nursed-thuwaybah",
+    "title": "ثویبہ کا دودھ پلانا",
+    "commentary": [
+      "والدہ کے بعد سب سے پہلے آپ کو ابولہب کی آزاد کردہ لونڈی ثویبہ نے دودھ پلایا۔",
+      "انہوں نے اس سے پہلے آپ کے چچا حمزہ کو اور بعد میں ابوسلمہ کو بھی دودھ پلایا تھا۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں؛ کتاب مدت نہیں بتاتی۔",
+    "hijri-date": "ربیع الاول، عام الفیل",
+    "start": "0571-04-21",
+    "end": "0571-05-31",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "circumcision",
+    "title": "ساتویں دن ختنہ",
+    "commentary": [
+      "عربوں کے رواج کے مطابق آپ کے دادا نے ساتویں دن آپ کا ختنہ کروایا۔"
+    ],
+    "notes": "",
+    "hijri-date": "16 ربیع الاول، عام الفیل",
+    "start": "0571-04-27",
+    "period": "pre-prophethood",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "nursed-haleemah",
+    "title": "بنو سعد میں حلیمہ سعدیہ کے پاس",
+    "commentary": [
+      "بنو سعد کی حلیمہ بنت ابی ذؤیب آپ کو صحرا لے گئیں، جبکہ باقی دائیاں یتیم ہونے کی وجہ سے آپ کو چھوڑ چکی تھیں۔",
+      "جب تک آپ ان کے ہاں رہے، ان کے گھر والوں نے دودھ، جانوروں اور چراگاہ میں برکت دیکھی۔",
+      "دو سال بعد انہوں نے آپ کو والدہ کے پاس لوٹایا مگر مزید رکھنے کی درخواست کی، چنانچہ آپ چار یا پانچ سال کی عمر تک ان کے پاس رہے۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں۔",
+    "hijri-date": "عام الفیل اور اس کے بعد",
+    "start": "0571-06-01",
+    "end": "0575-09-01",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Babyhood",
+      "page": 37
+    }
+  },
+  {
+    "id": "chest-opened",
+    "title": "شقِ صدر",
+    "commentary": [
+      "آپ بچوں کے ساتھ کھیل رہے تھے کہ جبریل نے آپ کا سینہ چاک کیا، دل سے ایک لوتھڑا نکالا اور اسے سونے کے طشت میں زمزم کے پانی سے دھویا۔",
+      "بچے دوڑ کر حلیمہ کے پاس گئے کہ آپ قتل کر دیے گئے ہیں؛ لوگ پہنچے تو آپ صحیح سلامت تھے مگر چہرے کا رنگ اُڑا ہوا تھا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے (چار یا پانچ سال کی عمر)۔ یہ روایت مسلم نے حضرت انس سے نقل کی ہے۔",
+    "hijri-date": "تقریباً 49 قبل ہجرت (عمر 4 سال)",
+    "start": "0575-09-01",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Babyhood",
+      "page": 38
+    }
+  },
+  {
+    "id": "returned-to-mother",
+    "title": "والدہ آمنہ کے پاس واپسی",
+    "commentary": [
+      "شقِ صدر کے واقعے کے بعد حلیمہ کو فکر ہوئی اور انہوں نے آپ کو والدہ کے پاس لوٹا دیا، جہاں آپ چھ سال کی عمر تک رہے۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں۔",
+    "hijri-date": "تقریباً 49 قبل ہجرت (عمر 4 سال)",
+    "start": "0575-09-30",
+    "end": "0577-02-13",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Back to His Passionate Mother",
+      "page": 39
+    }
+  },
+  {
+    "id": "mother-dies",
+    "title": "ابواء میں والدہ آمنہ کی وفات",
+    "commentary": [
+      "آمنہ اپنے مرحوم شوہر کی قبر کی زیارت کے لیے بیٹے، ام ایمن اور عبدالمطلب کے ساتھ تقریباً 500 کلومیٹر کا سفر کر کے یثرب گئیں اور ایک مہینہ وہاں رہیں۔",
+      "واپسی پر وہ سخت بیمار ہوئیں اور مکہ اور مدینہ کے درمیان ابواء کے مقام پر وفات پا گئیں۔"
+    ],
+    "notes": "تاریخ اندازاً ہے (چھ سال کی عمر)۔",
+    "hijri-date": "تقریباً 47 قبل ہجرت (عمر 6 سال)",
+    "start": "0577-02-13",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Back to His Passionate Mother",
+      "page": 39
+    }
+  },
+  {
+    "id": "grandfather-care",
+    "title": "دادا عبدالمطلب کی کفالت میں",
+    "commentary": [
+      "عبدالمطلب یتیم پوتے کو مکہ واپس لے آئے اور اپنی اولاد سے بھی بڑھ کر اس سے محبت کرتے تھے۔",
+      "وہ آپ کو کعبہ کے سائے میں اپنے بستر پر بٹھاتے اور کہتے کہ اس بچے کی بڑی شان ہوگی۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں۔",
+    "hijri-date": "تقریباً 47 قبل ہجرت (عمر 6 سال)",
+    "start": "0577-02-14",
+    "end": "0579-04-02",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "To His Compassionate Grandfather",
+      "page": 39
+    }
+  },
+  {
+    "id": "grandfather-dies",
+    "title": "عبدالمطلب کی وفات؛ ابوطالب کی کفالت",
+    "commentary": [
+      "جب آپ آٹھ سال، دو مہینے اور دس دن کے تھے تو آپ کے دادا مکہ میں وفات پا گئے۔",
+      "آپ کے والد کے سگے بھائی ابوطالب نے آپ کی کفالت سنبھالی، اپنے بچوں کے ساتھ پالا اور تقریباً چالیس سال تک آپ کی حفاظت کی۔"
+    ],
+    "notes": "تاریخ کتاب میں دی گئی عمر سے نکالی گئی ہے۔",
+    "hijri-date": "تقریباً 45 قبل ہجرت (عمر 8 سال)",
+    "start": "0579-04-02",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "To His Compassionate Grandfather",
+      "page": 39
+    }
+  },
+  {
+    "id": "bahira",
+    "title": "شام کا سفر اور بحیرا راہب",
+    "commentary": [
+      "بارہ سال کی عمر میں آپ ابوطالب کے ساتھ تجارتی سفر پر شام گئے۔",
+      "بُصریٰ میں بحیرا راہب نے مہرِ نبوت سے آپ کو پہچان لیا اور ابوطالب سے کہا کہ یہودیوں کے خطرے کے پیش نظر انہیں مکہ واپس بھیج دیں؛ چنانچہ ابوطالب نے آپ کو واپس بھیج دیا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے (بارہ سال کی عمر)۔",
+    "hijri-date": "تقریباً 41 قبل ہجرت (عمر 12 سال)",
+    "start": "0582-12-10",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bahira, the Monk",
+      "page": 40
+    }
+  },
+  {
+    "id": "fijar-wars",
+    "title": "حربِ فجار",
+    "commentary": [
+      "ایک طرف قریش و کنانہ اور دوسری طرف قیس عیلان کے درمیان جنگ چھڑی جو حرمت والے مہینوں میں بھی لڑی گئی۔",
+      "آپ اپنے چچاؤں کے ساتھ ایک لڑائی میں شریک ہوئے، مگر صرف دشمن کے تیر اکٹھے کر کے انہیں دیتے رہے۔"
+    ],
+    "notes": "آپ کی عمر تقریباً پندرہ سال تھی؛ یہ جنگیں کئی سال جاری رہیں۔",
+    "hijri-date": "تقریباً 38 قبل ہجرت (عمر 15 سال)",
+    "start": "0585-11-08",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The ‘Sacrilegious’ Wars",
+      "page": 40
+    }
+  },
+  {
+    "id": "hilf-al-fudul",
+    "title": "حلف الفضول",
+    "commentary": [
+      "حربِ فجار کے بعد قریش کے کئی خاندان عبداللہ بن جُدعان کے گھر جمع ہوئے اور مظلوم اور کمزور کی مدد کا عہد کیا۔",
+      "اس کا سبب زبید کا ایک تاجر تھا جسے عاص بن وائل نے مال کی قیمت ادا نہیں کی تھی۔ آپ ﷺ نے بعد میں فرمایا کہ اسلام میں بھی ایسے معاہدے کی طرف بلایا جائے تو میں قبول کروں گا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے؛ کتاب صرف یہ بتاتی ہے کہ یہ حربِ فجار کے بعد ہوا۔",
+    "hijri-date": "تقریباً 37 قبل ہجرت (عمر 16 سال)",
+    "start": "0586-10-28",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Fudoul Confederacy",
+      "page": 40
+    }
+  },
+  {
+    "id": "trade-for-khadijah",
+    "title": "حضرت خدیجہ کا مال لے کر شام میں تجارت",
+    "commentary": [
+      "جوانی میں بکریاں چرانے کے بعد، پچیس سال کی عمر میں آپ حضرت خدیجہ کا سامانِ تجارت لے کر ان کے غلام میسرہ کے ساتھ شام گئے۔",
+      "حضرت خدیجہ نے آپ کی سچائی اور امانت داری کی وجہ سے آپ کو چنا اور دوسروں سے زیادہ حصہ دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "تقریباً 28 قبل ہجرت (عمر 25 سال)",
+    "start": "0595-07-22",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Muhammad’s Early Job",
+      "page": 41
+    }
+  },
+  {
+    "id": "marriage-khadijah",
+    "title": "حضرت خدیجہ سے نکاح",
+    "commentary": [
+      "منافع اور میسرہ کی زبانی آپ کے اخلاق کا حال سن کر حضرت خدیجہ نے اپنی سہیلی نفیسہ کے ذریعے نکاح کا پیغام بھیجا۔",
+      "اُس وقت آپ کی عمر پچیس اور ان کی چالیس سال تھی۔ مہر بیس اونٹنیاں تھا، اور ان کی زندگی میں آپ نے کوئی اور نکاح نہیں کیا۔",
+      "ابراہیم کے سوا آپ کی تمام اولاد انہی سے ہوئی: قاسم، زینب، رقیہ، ام کلثوم، فاطمہ اور عبداللہ۔"
+    ],
+    "notes": "",
+    "hijri-date": "تقریباً 28 قبل ہجرت (عمر 25 سال)",
+    "start": "0595-09-19",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Marriage to Khadijah",
+      "page": 41
+    }
+  },
+  {
+    "id": "kabah-rebuilt",
+    "title": "کعبہ کی تعمیرِ نو اور حجرِ اسود",
+    "commentary": [
+      "سیلاب سے کعبہ کو نقصان پہنچا تو قریش نے صرف حلال مال سے اسے دوبارہ تعمیر کیا، اور رقم کم پڑنے پر حطیم کا حصہ باہر چھوڑ دیا۔",
+      "حجرِ اسود رکھنے پر قبائل کئی دن جھگڑتے رہے، یہاں تک کہ طے پایا کہ جو سب سے پہلے داخل ہو وہ فیصلہ کرے۔",
+      "سب سے پہلے آپ داخل ہوئے۔ آپ نے پتھر ایک چادر پر رکھا، ہر قبیلے کے سردار سے مل کر اٹھوایا، اور پھر اپنے ہاتھ سے اسے اس کی جگہ رکھ دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "تقریباً 18 قبل ہجرت (عمر 35 سال)",
+    "start": "0605-04-04",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Rebuilding Al-Ka‘bah and the Arbitration Issue",
+      "page": 41
+    }
+  },
+  {
+    "id": "hira-seclusion",
+    "title": "غارِ حرا میں خلوت",
+    "commentary": [
+      "چالیس سال کی عمر کے قریب آپ جبلِ نور پر غارِ حرا میں طویل وقت گزارتے، خاص طور پر رمضان میں، اور ستو اور پانی ساتھ لے جاتے۔",
+      "وحی سے پہلے یہ خلوتیں تقریباً تین سال جاری رہیں۔"
+    ],
+    "notes": "آغاز کی تاریخ اندازاً ہے۔",
+    "hijri-date": "تقریباً 16 قبل ہجرت (عمر 37 سال)",
+    "start": "0607-03-14",
+    "end": "0610-08-10",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In the Shade of the Message and Prophethood",
+      "page": 44
+    }
+  },
+  {
+    "id": "first-revelation",
+    "title": "غارِ حرا میں پہلی وحی",
+    "commentary": [
+      "جبریل غارِ حرا میں سورۃ العلق کی پہلی آیات («اقرأ») لے کر آئے۔",
+      "آپ کانپتے ہوئے حضرت خدیجہ کے پاس لوٹے؛ انہوں نے آپ کو تسلی دی اور اپنے چچا زاد ورقہ بن نوفل کے پاس لے گئیں۔"
+    ],
+    "notes": "یہ باب کتاب کی فہرست میں موجود ہے مگر استعمال شدہ ٹیکسٹ فائل میں نہیں؛ تاریخ (پیر کی رات، 21 رمضان، 10 اگست 610ء، عمر چالیس قمری سال اور چھ مہینے) مطبوعہ نسخے سے لی گئی ہے۔",
+    "hijri-date": "21 رمضان 13 قبل ہجرت",
+    "start": "0610-08-10",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In the Shade of the Message and Prophethood",
+      "page": 44
+    }
+  },
+  {
+    "id": "secret-call",
+    "title": "تین سال کی خفیہ دعوت",
+    "commentary": [
+      "بتوں کے نگہبان قریش کو بھڑکنے سے بچانے کے لیے اسلام کی دعوت خاموشی سے دی گئی۔",
+      "پہلے ہی دن حضرت خدیجہ، زید بن حارثہ، علی اور ابوبکر ایمان لائے۔ ابوبکر کی کوشش سے عثمان، زبیر، عبدالرحمن بن عوف، سعد بن ابی وقاص اور طلحہ مسلمان ہوئے۔",
+      "شروع میں نماز صبح دو رکعت اور شام دو رکعت تھی۔"
+    ],
+    "notes": "",
+    "hijri-date": "13 تا 10 قبل ہجرت (نبوت کے سال 1 تا 3)",
+    "start": "0610-08-10",
+    "end": "0612-10-31",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Three Years of Secret Call",
+      "page": 49
+    }
+  },
+  {
+    "id": "revelation-pause",
+    "title": "وحی کا وقفہ",
+    "commentary": [
+      "چند دن وحی رکی رہی اور آپ اس پر بہت غمگین ہوئے۔",
+      "کتاب اس قول کو رد کرتی ہے کہ یہ وقفہ ساڑھے تین سال رہا۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں («چند دن»)۔",
+    "hijri-date": "رمضان 13 قبل ہجرت",
+    "start": "0610-08-11",
+    "end": "0610-08-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Interruption of Revelation",
+      "page": 44
+    }
+  },
+  {
+    "id": "al-muddaththir",
+    "title": "وحی کا دوبارہ آغاز: «اٹھیے اور ڈرائیے»",
+    "commentary": [
+      "آپ نے غارِ حرا والے فرشتے کو آسمان و زمین کے درمیان ایک کرسی پر بیٹھے دیکھا، گھر آ کر فرمایا «مجھے کپڑا اوڑھا دو»، اور سورۃ المدثر کی ابتدائی آیات نازل ہوئیں۔",
+      "اس کے بعد وحی پے در پے اور باقاعدگی سے آنے لگی۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "رمضان 13 قبل ہجرت",
+    "start": "0610-08-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Once more, Gabriel brings All? ’s Revelation",
+      "page": 45
+    }
+  },
+  {
+    "id": "open-preaching",
+    "title": "علانیہ دعوت کا آغاز",
+    "commentary": [
+      "اللہ نے آپ کو اپنے قریبی رشتہ داروں کو ڈرانے کا حکم دیا (الشعراء 26:214)۔ آپ نے بنو ہاشم اور بنو مطلب کے تقریباً پینتالیس افراد جمع کیے، اور ابولہب نے مخالفت کی۔",
+      "پھر آپ کوہِ صفا پر چڑھے اور قریش کے تمام خاندانوں کو توحید کی دعوت دی۔"
+    ],
+    "notes": "نبوت کے چوتھے سال کا آغاز۔",
+    "hijri-date": "محرم 10 قبل ہجرت (نبوت کا 4واں سال)",
+    "start": "0612-11-01",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "First Revelation regarding the Preaching",
+      "page": 52
+    }
+  },
+  {
+    "id": "first-bloodshed",
+    "title": "اسلام میں پہلا خون",
+    "commentary": [
+      "مکہ کی گھاٹیوں میں ایک خفیہ اجتماع کو جاتے ہوئے مسلمانوں پر مشرکین نے حملہ کیا، اور سعد بن ابی وقاص نے ان میں سے ایک کو زخمی کر دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "10 قبل ہجرت (نبوت کا 4واں سال)",
+    "start": "0612-11-01",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 62
+    }
+  },
+  {
+    "id": "persecution",
+    "title": "منظم ظلم و ستم کا آغاز",
+    "commentary": [
+      "ابولہب کی سربراہی میں قریش کے پچیس سرداروں کی ایک کمیٹی نے مخالفت کو منظم کیا۔",
+      "کمزور مسلمانوں، جیسے بلال اور عمار اور ان کے والدین، پر تشدد کیا گیا۔"
+    ],
+    "notes": "نبوت کے چوتھے سال کے آخر میں۔",
+    "hijri-date": "شوال 10 قبل ہجرت (نبوت کا 4واں سال)",
+    "start": "0613-07-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 59
+    }
+  },
+  {
+    "id": "pilgrim-council",
+    "title": "قریش آپ کو جادوگر کہنے پر متفق",
+    "commentary": [
+      "حج کے موسم سے پہلے قریش ولید بن مغیرہ کے ہاں جمع ہوئے تاکہ آپ کے بارے میں ایک بات پر متفق ہوں۔",
+      "کاہن، مجنون اور شاعر کے الزام رد کرنے کے بعد انہوں نے طے کیا کہ آپ کو ایسا جادوگر کہیں جو خاندانوں میں پھوٹ ڈالتا ہے۔"
+    ],
+    "notes": "علانیہ دعوت شروع ہونے کے چند ماہ بعد۔",
+    "hijri-date": "ذوالحجہ 10 قبل ہجرت (نبوت کا 4واں سال)",
+    "start": "0613-09-22",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Advisory Council to debar Pilgrims from Muhammad’s Call",
+      "page": 55
+    }
+  },
+  {
+    "id": "dar-al-arqam",
+    "title": "دارِ ارقم ملاقات کا مرکز",
+    "commentary": [
+      "آپ نے کوہِ صفا پر ارقم کے گھر کو اپنے ساتھیوں سے خفیہ ملاقات اور انہیں قرآن سکھانے کا مرکز بنایا۔"
+    ],
+    "notes": "",
+    "hijri-date": "9 قبل ہجرت (نبوت کا 5واں سال)",
+    "start": "0613-10-22",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 63
+    }
+  },
+  {
+    "id": "abyssinia-1",
+    "title": "حبشہ کی طرف پہلی ہجرت",
+    "commentary": [
+      "بارہ مرد اور چار عورتیں، جن میں عثمان بن عفان اور ان کی اہلیہ نبی ﷺ کی صاحبزادی رقیہ شامل تھیں، رات کو مکہ سے نکلے اور شعیبہ سے کشتی میں روانہ ہوئے۔",
+      "قریش نے پیچھا کیا مگر وہ جا چکے تھے، اور حبشہ میں ان کا خوب استقبال ہوا۔"
+    ],
+    "notes": "",
+    "hijri-date": "رجب 9 قبل ہجرت (نبوت کا 5واں سال)",
+    "start": "0614-04-17",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 64
+    }
+  },
+  {
+    "id": "surah-najm",
+    "title": "کعبہ کے پاس سورۃ النجم کی تلاوت",
+    "commentary": [
+      "آپ نے حرم میں قریش کے ایک مجمع کے سامنے سورۃ النجم کی تلاوت کی۔ آخر میں آپ نے سجدہ کیا تو وہ سب بھی مغلوب ہو کر سجدے میں گر پڑے۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 9 قبل ہجرت (نبوت کا 5واں سال)",
+    "start": "0614-06-15",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 64
+    }
+  },
+  {
+    "id": "abyssinia-return",
+    "title": "مہاجرین کی حبشہ سے واپسی",
+    "commentary": [
+      "قریش کے مسلمان ہونے کی جھوٹی خبر سن کر مہاجرین لوٹ آئے۔ مکہ کے قریب حقیقت معلوم ہوئی تو کچھ حبشہ واپس چلے گئے اور کچھ کسی سردار کی پناہ میں داخل ہوئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 9 قبل ہجرت (نبوت کا 5واں سال)",
+    "start": "0614-07-15",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 65
+    }
+  },
+  {
+    "id": "abyssinia-2",
+    "title": "حبشہ کی طرف دوسری ہجرت",
+    "commentary": [
+      "جب تشدد اور بڑھ گیا تو ایک بڑا قافلہ نکلا: تراسی مرد اور اٹھارہ یا انیس عورتیں۔"
+    ],
+    "notes": "تاریخ اندازاً ہے؛ کتاب صرف یہ بتاتی ہے کہ یہ پہلے گروہ کی واپسی کے بعد ہوئی۔",
+    "hijri-date": "ذوالقعدہ 9 قبل ہجرت (نبوت کا 5واں سال)",
+    "start": "0614-08-13",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 65
+    }
+  },
+  {
+    "id": "negus-court",
+    "title": "نجاشی کے دربار میں قریش کے سفیر",
+    "commentary": [
+      "قریش نے عمرو بن عاص اور عبداللہ بن ابی ربیعہ کو تحفوں کے ساتھ بھیجا تاکہ مسلمان ان کے حوالے کیے جائیں۔",
+      "جعفر بن ابی طالب نے اسلام کی وضاحت کی اور سورۃ مریم کی تلاوت کی۔ نجاشی نے مسلمانوں کو حوالے کرنے سے انکار کیا اور ان کی حفاظت کی ضمانت دی۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0614-10-11",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Machination against the Emigrants",
+      "page": 65
+    }
+  },
+  {
+    "id": "quraish-abu-talib",
+    "title": "ابوطالب پر قریش کا دباؤ",
+    "commentary": [
+      "قریش نے دو بار ابوطالب سے کہا کہ اپنے بھتیجے کو روکیں یا ان کے حوالے کر دیں، یہاں تک کہ بدلے میں ایک نوجوان دینے کی پیشکش کی۔ ابوطالب نے انکار کر دیا۔"
+    ],
+    "notes": "کتاب ان دونوں ملاقاتوں کو چھٹے سال میں، تھوڑے وقفے سے، رکھتی ہے۔",
+    "hijri-date": "8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0614-10-11",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Once more Quraish approaches Abu Talib",
+      "page": 67
+    }
+  },
+  {
+    "id": "hamzah-islam",
+    "title": "حضرت حمزہ بن عبدالمطلب کا قبولِ اسلام",
+    "commentary": [
+      "یہ سن کر کہ ابوجہل نے صفا پر ان کے بھتیجے کو برا بھلا کہا ہے، حمزہ غصے میں آئے، اپنی کمان اس کے سر پر ماری اور اسلام کا اعلان کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conversion of Hamzah bin ‘Abdul-Muttalib",
+      "page": 68
+    }
+  },
+  {
+    "id": "umar-islam",
+    "title": "حضرت عمر بن خطاب کا قبولِ اسلام",
+    "commentary": [
+      "حمزہ کے تین دن بعد عمر، جو اب تک اسلام کے سخت مخالف تھے، مسلمان ہوئے اور اس سے مسلمانوں کو بڑی قوت ملی۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conversion of ‘Umar bin Al-Khattab",
+      "page": 69
+    }
+  },
+  {
+    "id": "utbah-offer",
+    "title": "عتبہ بن ربیعہ کی پیشکش",
+    "commentary": [
+      "قریش نے عتبہ کو بھیجا کہ اگر آپ دعوت چھوڑ دیں تو مال، سرداری یا بادشاہت پیش کرے۔ آپ نے جواب میں سورۃ فصلت کی ابتدائی آیات تلاوت کیں، اور عتبہ بہت متاثر ہو کر لوٹا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "ذوالحجہ 8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Representative negotiates with the Messenger of All? [pbuh]",
+      "page": 72
+    }
+  },
+  {
+    "id": "hashim-pact",
+    "title": "بنو ہاشم اور بنو مطلب کا حفاظت کا عہد",
+    "commentary": [
+      "ابوطالب نے بنو ہاشم اور بنو مطلب کو، مسلمان ہوں یا نہیں، نبی ﷺ کی حفاظت کے لیے جمع کیا۔ صرف ابولہب نے انکار کیا اور قریش کا ساتھ دیا۔"
+    ],
+    "notes": "کتاب کے مطابق حمزہ اور عمر کا اسلام، یہ عہد اور سمجھوتے سے انکار، سب چار ہفتوں کے اندر ہوئے۔",
+    "hijri-date": "ذوالحجہ 8 قبل ہجرت (نبوت کا 6واں سال)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Representative negotiates with the Messenger of All? [pbuh]",
+      "page": 73
+    }
+  },
+  {
+    "id": "boycott",
+    "title": "شعبِ ابی طالب میں بائیکاٹ",
+    "commentary": [
+      "قریش نے ایک معاہدہ لکھ کر کعبہ کے اندر لٹکایا کہ بنو ہاشم اور بنو مطلب سے شادی بیاہ، لین دین اور میل جول نہیں رکھا جائے گا۔",
+      "وہ تین سال تک ابوطالب کی گھاٹی میں محصور رہے اور پتے اور چمڑے کھانے پر مجبور ہوئے، جبکہ مکہ کے چند ہمدرد چوری چھپے کھانا پہنچاتے رہے۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم 7 قبل ہجرت - محرم 4 قبل ہجرت (نبوت کے 7ویں سال سے)",
+    "start": "0615-09-30",
+    "end": "0618-09-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Pact of Injustice and Aggression",
+      "page": 75
+    }
+  },
+  {
+    "id": "boycott-ends",
+    "title": "بائیکاٹ کا خاتمہ",
+    "commentary": [
+      "ہشام بن عمرو اور زہیر بن ابی امیہ کی قیادت میں مکہ کے پانچ افراد نے معاہدہ ختم کرانے کی کوشش کی، اور پھر اسے پھاڑ دیا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0618-08-29",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Pact of Injustice and Aggression",
+      "page": 76
+    }
+  },
+  {
+    "id": "abu-talib-dies",
+    "title": "ابوطالب کی وفات",
+    "commentary": [
+      "گھاٹی سے نکلنے کے چھ ماہ بعد ابوطالب بیمار ہوئے اور وفات پا گئے۔ بسترِ مرگ پر نبی ﷺ نے انہیں کلمہ لا الٰہ الا اللہ پڑھنے کی تلقین کی۔"
+    ],
+    "notes": "ایک اور روایت کے مطابق رمضان میں، حضرت خدیجہ سے تین دن پہلے۔",
+    "hijri-date": "رجب 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-02-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abu Talib’s Death",
+      "page": 79
+    }
+  },
+  {
+    "id": "khadijah-dies",
+    "title": "حضرت خدیجہ کی وفات",
+    "commentary": [
+      "ابوطالب کے تقریباً دو ماہ بعد حضرت خدیجہ پینسٹھ سال کی عمر میں وفات پا گئیں؛ اُس وقت آپ کی عمر پچاس سال تھی۔ وہ پچیس سال آپ کی آزمائشوں میں شریک رہیں۔",
+      "نبی ﷺ نے اس سال کو «عام الحزن» (غم کا سال) کہا۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-04-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Khadijah passes away to the Mercy of Allâh",
+      "page": 80
+    }
+  },
+  {
+    "id": "marriage-sawdah",
+    "title": "حضرت سودہ بنت زمعہ سے نکاح",
+    "commentary": [
+      "سودہ ابتدائی مسلمانوں میں سے تھیں اور حبشہ ہجرت کی تھی؛ واپسی پر ان کے شوہر سکران فوت ہو گئے۔ حضرت خدیجہ کے بعد آپ نے سب سے پہلے انہی سے نکاح کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-05-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Marriage to Sawdah [R] in Shawwal, the tenth year of Prophethood",
+      "page": 81
+    }
+  },
+  {
+    "id": "jinn-nakhlah",
+    "title": "نخلہ میں جنات کا قرآن سننا",
+    "commentary": [
+      "طائف سے واپسی پر نخلہ کے مقام پر جنات کی ایک جماعت نے آپ کی تلاوت سنی اور ایمان لے آئی، جیسا کہ الاحقاف 46:29-31 اور سورۃ الجن میں ذکر ہے۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "شوال 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-05-22",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Third Phase: Calling unto Islam beyond Makkah",
+      "page": 83
+    }
+  },
+  {
+    "id": "taif",
+    "title": "طائف کا سفر",
+    "commentary": [
+      "آپ زید بن حارثہ کے ساتھ تقریباً 60 کلومیٹر پیدل چل کر طائف گئے تاکہ ثقیف کو اسلام کی دعوت دیں۔",
+      "وہاں کے سرداروں نے انکار کیا اور غلاموں اور لڑکوں کو پیچھے لگا دیا جنہوں نے اتنے پتھر مارے کہ آپ کے پاؤں لہولہان ہو گئے۔",
+      "عتبہ اور شیبہ پسرانِ ربیعہ کے باغ میں آپ نے اپنی مشہور دعا مانگی، اور ان کا غلام عداس مسلمان ہوا۔"
+    ],
+    "notes": "کتاب اسے مئی کے آخر یا جون 619ء کے شروع میں بتاتی ہے۔",
+    "hijri-date": "شوال 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-05-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Third Phase: Calling unto Islam beyond Makkah",
+      "page": 82
+    }
+  },
+  {
+    "id": "tribes-call",
+    "title": "حج کے موسم میں قبائل کو دعوت",
+    "commentary": [
+      "آپ نے پھر سے میلوں اور حج کے موسم میں آنے والے قبائل اور افراد کے سامنے اسلام پیش کرنا شروع کیا، جیسا کہ چوتھے سال سے کرتے آئے تھے۔"
+    ],
+    "notes": "کتاب اسے جولائی 619ء میں بتاتی ہے۔",
+    "hijri-date": "ذوالقعدہ 4 قبل ہجرت (نبوت کا 10واں سال)",
+    "start": "0619-07-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Islam being introduced to Arabian Tribes and Individuals",
+      "page": 85
+    }
+  },
+  {
+    "id": "early-yathrib-converts",
+    "title": "سوید، ایاس، ابوذر، طفیل اور ضماد کا قبولِ اسلام",
+    "commentary": [
+      "مکہ کے باہر کے کچھ افراد مسلمان ہوئے: یثرب کے سوید بن صامت اور نوجوان ایاس بن معاذ، ابوذر غفاری، طفیل بن عمرو دوسی اور ضماد ازدی۔"
+    ],
+    "notes": "",
+    "hijri-date": "3 قبل ہجرت (نبوت کا 11واں سال)",
+    "start": "0619-08-18",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Islam being introduced to Arabian Tribes and Individuals",
+      "page": 86
+    }
+  },
+  {
+    "id": "aishah-contract",
+    "title": "حضرت عائشہ سے نکاح کا عقد",
+    "commentary": [
+      "آپ نے حضرت ابوبکر کی صاحبزادی عائشہ سے نکاح کا عقد کیا؛ رخصتی مدینہ میں شوال 1 ہجری میں ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 3 قبل ہجرت (نبوت کا 11واں سال)",
+    "start": "0620-05-10",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 88
+    }
+  },
+  {
+    "id": "six-yathrib",
+    "title": "عقبہ میں یثرب کے چھ افراد کا قبولِ اسلام",
+    "commentary": [
+      "منیٰ میں عقبہ کے پاس آپ کی ملاقات یثرب کے چھ افراد سے ہوئی جن میں اسعد بن زرارہ بھی تھے۔ یہودیوں سے ایک آنے والے نبی کا ذکر سن چکے تھے، چنانچہ وہ مسلمان ہوئے اور پیغام اپنے شہر لے گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 3 قبل ہجرت (نبوت کا 11واں سال)",
+    "start": "0620-07-08",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hope inspiring Breezes from the Madinese",
+      "page": 87
+    }
+  },
+  {
+    "id": "aqabah-1",
+    "title": "بیعتِ عقبہ اولیٰ",
+    "commentary": [
+      "یثرب کے بارہ افراد نے، جن میں پچھلے سال کے چھ میں سے پانچ شامل تھے، عقبہ میں بیعت کی کہ صرف اللہ کی عبادت کریں گے اور چوری، زنا، قتلِ اولاد اور بہتان سے بچیں گے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 2 قبل ہجرت (نبوت کا 12واں سال)",
+    "start": "0621-06-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First ‘Aqabah Pledge",
+      "page": 93
+    }
+  },
+  {
+    "id": "musab-envoy",
+    "title": "مصعب بن عمیر یثرب روانہ",
+    "commentary": [
+      "مصعب بن عمیر اسلام کے پہلے سفیر بن کر یثرب گئے اور اسعد بن زرارہ کے ہاں ٹھہرے۔ سعد بن معاذ اور اسید بن حضیر ان کے ہاتھ پر مسلمان ہوئے اور تقریباً ہر گھر تک دعوت پہنچ گئی۔",
+      "اگلے حج سے پہلے وہ خوشخبری لے کر مکہ لوٹے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 2 قبل ہجرت - ذوالقعدہ 1 قبل ہجرت (نبوت کے 12ویں سال سے)",
+    "start": "0621-06-27",
+    "end": "0622-06-16",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Muslim Envoy in Madinah",
+      "page": 93
+    }
+  },
+  {
+    "id": "isra-miraj",
+    "title": "اسراء و معراج",
+    "commentary": [
+      "آپ کو براق پر جبریل کے ساتھ مسجدِ حرام سے بیت المقدس کی مسجدِ اقصیٰ لے جایا گیا، جہاں آپ نے انبیا کی امامت کی۔",
+      "پھر آپ آسمانوں پر تشریف لے گئے، پچھلے انبیا سے ملاقات کی، اور پانچ نمازوں کا حکم ملا۔"
+    ],
+    "notes": "صحیح تاریخ میں اختلاف ہے؛ اکثر علما اسے ہجرت سے بارہ سے سولہ ماہ پہلے رکھتے ہیں۔",
+    "hijri-date": "محرم 1 قبل ہجرت (نبوت کا 13واں سال)",
+    "start": "0621-07-27",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 89
+    }
+  },
+  {
+    "id": "aqabah-2",
+    "title": "بیعتِ عقبہ ثانیہ",
+    "commentary": [
+      "ایامِ تشریق میں رات کے وقت یثرب کے ستر سے زائد مرد اور دو عورتیں عقبہ میں آپ سے خفیہ ملے۔",
+      "انہوں نے اطاعت، اللہ کی راہ میں خرچ کرنے اور اپنے اہل و عیال کی طرح آپ کی حفاظت کرنے کی بیعت کی، اور ان میں سے بارہ نقیب مقرر کیے گئے۔"
+    ],
+    "notes": "کتاب جون 622ء اور «ایامِ تشریق کے درمیان» (11 تا 13 ذوالحجہ) بتاتی ہے؛ دن حساب سے نکالا گیا ہے۔",
+    "hijri-date": "12 ذوالحجہ 1 قبل ہجرت (نبوت کا 13واں سال)",
+    "start": "0622-06-28",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Second ‘Aqabah Pledge",
+      "page": 95
+    }
+  },
+  {
+    "id": "emigration-begins",
+    "title": "مسلمانوں کی مدینہ ہجرت کا آغاز",
+    "commentary": [
+      "بیعت کے بعد آپ نے مسلمانوں کو ہجرت کی اجازت دی۔ بہت سوں کو اپنا مال چھوڑنا پڑا یا زبردستی روکا گیا۔",
+      "ابوسلمہ کو بیوی بچے سے جدا کیا گیا، صہیب نے نکلنے کے لیے اپنا مال چھوڑ دیا، اور عمر نے علانیہ ہجرت کی۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں۔",
+    "hijri-date": "ذوالحجہ 1 قبل ہجرت - صفر 1 ہجری",
+    "start": "0622-07-01",
+    "end": "0622-09-08",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Vanguard of Migration",
+      "page": 99
+    }
+  },
+  {
+    "id": "dar-an-nadwah",
+    "title": "دارالندوہ میں قتل کی سازش",
+    "commentary": [
+      "قریش کے سردار اپنے مشاورتی ایوان میں جمع ہوئے اور ابوجہل کی تجویز مانی: ہر قبیلے سے ایک نوجوان مل کر ایک ساتھ وار کرے، تاکہ خون بہا سب قبیلوں میں بٹ جائے۔"
+    ],
+    "notes": "کتاب 12 ستمبر 622ء لکھتی ہے، جو پیچھے کی طرف بڑھائے گئے گریگورین کیلنڈر کے مطابق ہے؛ یہاں اسے باقی فائل کی طرح جولین کیلنڈر میں بدلا گیا ہے۔",
+    "hijri-date": "جمعرات، 26 صفر 1 ہجری (نبوت کا 14واں سال)",
+    "start": "0622-09-09",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In An-Nadwah (Council) House",
+      "page": 101
+    }
+  },
+  {
+    "id": "hijrah-departure",
+    "title": "ہجرت: آپ ﷺ کا گھر سے نکلنا",
+    "commentary": [
+      "سازش کی خبر ملنے پر آپ نے علی کو اپنے بستر پر سلایا اور دروازے پر گھات لگائے لوگوں کے درمیان سے نکل گئے۔",
+      "ابوبکر کے ساتھ آپ شمال کی بجائے جنوب میں یمن کی سمت جبلِ ثور کی طرف گئے۔"
+    ],
+    "notes": "کتاب 12/13 ستمبر 622ء لکھتی ہے، جو پیچھے کی طرف بڑھائے گئے گریگورین کیلنڈر کے مطابق ہے؛ یہاں اسے باقی فائل کی طرح جولین کیلنڈر میں بدلا گیا ہے۔",
+    "hijri-date": "27 صفر 1 ہجری (نبوت کا 14واں سال)",
+    "start": "0622-09-10",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 104
+    }
+  },
+  {
+    "id": "cave-thawr",
+    "title": "غارِ ثور میں تین راتیں",
+    "commentary": [
+      "دونوں جمعہ، ہفتہ اور اتوار کی راتیں غار میں چھپے رہے۔ عبداللہ بن ابی بکر خبریں لاتے، اور عامر بن فہیرہ قریب بکریاں چرا کر نشان مٹاتے اور دودھ پلاتے۔",
+      "قریش کے تلاش کرنے والے غار کے دہانے تک پہنچے مگر اندر نہ جھانکا۔"
+    ],
+    "notes": "",
+    "hijri-date": "27-30 صفر 1 ہجری",
+    "start": "0622-09-10",
+    "end": "0622-09-13",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 104
+    }
+  },
+  {
+    "id": "journey-to-madinah",
+    "title": "ساحلی راستے سے سفر",
+    "commentary": [
+      "عبداللہ بن اریقط کی رہنمائی میں وہ کم استعمال ہونے والے ساحلی راستوں پر چلے۔ راستے میں سراقہ بن مالک نے پیچھا کیا تو اس کے گھوڑے کے پاؤں زمین میں دھنس گئے، اور ام معبد کی سوکھی بکری نے دودھ دیا۔",
+      "اسماء بنت ابی بکر نے زادِ راہ باندھنے کے لیے اپنا کمربند دو حصوں میں پھاڑا، اسی لیے «ذات النطاقین» کہلائیں۔"
+    ],
+    "notes": "",
+    "hijri-date": "1-8 ربیع الاول 1 ہجری",
+    "start": "0622-09-13",
+    "end": "0622-09-20",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 105
+    }
+  },
+  {
+    "id": "arrival-quba",
+    "title": "قبا آمد اور مسجدِ قبا",
+    "commentary": [
+      "آپ قبا پہنچے اور بنو عمرو بن عوف کے کلثوم بن ہدم کے ہاں چار دن ٹھہرے، اور مسجدِ قبا کی بنیاد رکھی۔",
+      "علی تین دن مکہ میں رکے تاکہ نبی ﷺ کے پاس رکھی ہوئی امانتیں ان کے مالکوں کو لوٹا دیں، پھر آپ سے آ ملے۔"
+    ],
+    "notes": "کتاب 23 ستمبر 622ء لکھتی ہے، جو پیچھے کی طرف بڑھائے گئے گریگورین کیلنڈر کے مطابق ہے؛ یہاں اسے باقی فائل کی طرح جولین کیلنڈر میں بدلا گیا ہے۔",
+    "hijri-date": "پیر، 8 ربیع الاول 1 ہجری",
+    "start": "0622-09-20",
+    "end": "0622-09-23",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 107
+    }
+  },
+  {
+    "id": "arrival-madinah",
+    "title": "مدینہ میں داخلہ اور پہلا جمعہ",
+    "commentary": [
+      "آپ نے بنو سالم کی وادی میں تقریباً سو افراد کے ساتھ پہلا جمعہ پڑھا، پھر استقبال کرنے والوں کے ہجوم میں شہر میں داخل ہوئے۔",
+      "آپ نے اونٹنی کو چھوڑ دیا کہ خود جگہ چنے؛ وہ بنو نجار کے محلے میں بیٹھ گئی، اور آپ ابو ایوب انصاری کے ہاں ٹھہرے۔"
+    ],
+    "notes": "کتاب 27 ستمبر 622ء لکھتی ہے، جو پیچھے کی طرف بڑھائے گئے گریگورین کیلنڈر کے مطابق ہے؛ یہاں اسے باقی فائل کی طرح جولین کیلنڈر میں بدلا گیا ہے۔",
+    "hijri-date": "جمعہ، 12 ربیع الاول 1 ہجری",
+    "start": "0622-09-24",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "masjid-nabawi",
+    "title": "مسجدِ نبوی کی تعمیر",
+    "commentary": [
+      "آپ کا پہلا کام اس جگہ مسجد بنانا تھا جہاں اونٹنی بیٹھی تھی۔ آپ خود اینٹیں اور پتھر اٹھاتے، اور ساتھ ہی ازواجِ مطہرات کے حجرے بنائے گئے۔",
+      "اذان اسی ابتدائی دور میں شروع ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول 1 ہجری سے",
+    "start": "0622-09-25",
+    "end": "0622-12-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "brotherhood",
+    "title": "مہاجرین اور انصار میں مؤاخات",
+    "commentary": [
+      "آپ نے نوے افراد کو، آدھے مہاجر اور آدھے انصار، باہم بھائی بنایا جس کے ساتھ ایک دوسرے کی مدد کی حقیقی ذمہ داریاں تھیں۔ سعد بن ربیع نے عبدالرحمن بن عوف کو اپنا آدھا مال پیش کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "1 ہجری، مسجد کی تعمیر کے بعد",
+    "start": "0622-10-13",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "madinah-charter",
+    "title": "میثاقِ مدینہ اور یہود سے معاہدہ",
+    "commentary": [
+      "آپ نے مسلمانوں کو یکجا کرنے والا ایک میثاق طے کیا، اور مدینہ کے یہود کے ساتھ تعاون اور عدمِ جارحیت کا معاہدہ کیا: ہر ایک اپنے دین پر رہے اور سب مل کر شہر کا دفاع کریں۔"
+    ],
+    "notes": "",
+    "hijri-date": "1 ہجری",
+    "start": "0622-11-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Charter of Islamic Alliance",
+      "page": 119
+    }
+  },
+  {
+    "id": "saif-al-bahr",
+    "title": "سریہ سیف البحر (حمزہ)",
+    "commentary": [
+      "حمزہ تیس مہاجرین کے ساتھ قریش کے ایک قافلے کو روکنے نکلے جس میں ابوجہل سمیت تین سو افراد تھے۔ مجدی بن عمرو بیچ میں آئے اور لڑائی نہ ہوئی۔",
+      "یہ اسلام میں باندھا جانے والا پہلا جھنڈا تھا۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 1 ہجری",
+    "start": "0623-03-09",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "aishah-marriage",
+    "title": "حضرت عائشہ کی رخصتی",
+    "commentary": [
+      "مکہ میں ہونے والے نکاح کے بعد حضرت عائشہ کی رخصتی ہجرت کے سات ماہ بعد مدینہ میں ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 1 ہجری",
+    "start": "0623-04-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 88
+    }
+  },
+  {
+    "id": "rabigh",
+    "title": "سریہ بطنِ رابغ (عبیدہ)",
+    "commentary": [
+      "عبیدہ بن حارث ساٹھ سواروں کے ساتھ ابوسفیان کے دو سو افراد کے مقابل آئے۔ تیر چلے مگر جنگ نہ ہوئی، اور قافلے کے دو مسلمان عبیدہ سے آ ملے۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 1 ہجری",
+    "start": "0623-04-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "kharrar",
+    "title": "سریہ خرار (سعد)",
+    "commentary": [
+      "سعد بن ابی وقاص بیس سواروں کے ساتھ خرار گئے، مگر قافلہ ایک دن پہلے گزر چکا تھا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 1 ہجری",
+    "start": "0623-05-07",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "waddan",
+    "title": "غزوہ ابواء (ودان)",
+    "commentary": [
+      "یہ آپ کی پہلی غزوہ تھی جس میں آپ خود نکلے: ستر افراد ایک قافلہ روکنے گئے مگر کوئی نہ ملا؛ آپ نے بنو ضمرہ سے عدمِ جارحیت کا معاہدہ کیا۔ یہ پندرہ دن جاری رہی۔"
+    ],
+    "notes": "",
+    "hijri-date": "صفر 2 ہجری",
+    "start": "0623-08-04",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "buwat",
+    "title": "غزوہ بواط",
+    "commentary": [
+      "آپ دو سو افراد کے ساتھ امیہ بن خلف کے قافلے کی طرف نکلے جس میں ڈھائی ہزار اونٹ تھے، مگر وہ گزر چکا تھا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول 2 ہجری",
+    "start": "0623-09-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "safwan",
+    "title": "غزوہ سفوان (بدرِ اولیٰ)",
+    "commentary": [
+      "کرز بن جابر نے مدینہ کی چراگاہوں پر حملہ کیا۔ آپ ستر افراد کے ساتھ بدر کے قریب سفوان تک اس کا پیچھا کرتے گئے مگر وہ ہاتھ نہ آیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول 2 ہجری",
+    "start": "0623-09-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "dhul-ushairah",
+    "title": "غزوہ ذوالعشیرہ",
+    "commentary": [
+      "آپ ڈیڑھ سو سے دو سو افراد کے ساتھ شام جانے والے ایک قافلے کے پیچھے نکلے مگر وہ نکل گیا؛ اسی قافلے کی واپسی بدر کا سبب بنی۔ آپ نے بنو مدلج اور بنو ضمرہ سے معاہدے کیے۔"
+    ],
+    "notes": "",
+    "hijri-date": "جمادی الاولیٰ - جمادی الآخرہ 2 ہجری",
+    "start": "0623-10-31",
+    "end": "0623-12-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "nakhlah",
+    "title": "سریہ نخلہ (عبداللہ بن جحش)",
+    "commentary": [
+      "بارہ مہاجرین قریش کی خبر لینے گئے اور حرمت والے مہینے رجب کے آخر میں ایک قافلے پر حملہ کیا، ایک شخص مارا گیا اور دو قید ہوئے۔",
+      "حرمت والے مہینے میں لڑائی پر شور اٹھا، جس کا جواب البقرہ 2:217 میں نازل ہوا۔"
+    ],
+    "notes": "",
+    "hijri-date": "رجب 2 ہجری",
+    "start": "0623-12-29",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "fighting-permitted",
+    "title": "قتال کی فرضیت",
+    "commentary": [
+      "وہ آیات نازل ہوئیں جن میں مسلمانوں کو حکم دیا گیا کہ جو ان سے لڑیں ان سے لڑیں، مگر زیادتی نہ کریں۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 2 ہجری",
+    "start": "0624-01-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 129
+    }
+  },
+  {
+    "id": "qiblah-change",
+    "title": "کعبہ کی طرف تحویلِ قبلہ",
+    "commentary": [
+      "نماز کا رخ بیت المقدس سے مکہ کی مسجدِ حرام کی طرف پھیر دیا گیا، جس سے منافق اور ڈانواں ڈول یہودی بے نقاب ہو گئے۔"
+    ],
+    "notes": "کتاب فروری 624ء بتاتی ہے۔",
+    "hijri-date": "شعبان 2 ہجری",
+    "start": "0624-01-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 130
+    }
+  },
+  {
+    "id": "ruqaiyah-dies",
+    "title": "صاحبزادی حضرت رقیہ کی وفات",
+    "commentary": [
+      "بدر کی خبر مدینہ اس وقت پہنچی جب حضرت عثمان کی اہلیہ رقیہ کو دفنایا جا چکا تھا؛ عثمان ان کی تیمارداری کے لیے پیچھے رہ گئے تھے۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 2 ہجری",
+    "start": "0624-02-26",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Madinah receives the News of Victory",
+      "page": 143
+    }
+  },
+  {
+    "id": "fasting-zakat",
+    "title": "رمضان کے روزے اور زکوٰۃ کی فرضیت",
+    "commentary": [
+      "2 ہجری میں رمضان کے روزے اور زکوٰۃ فرض ہوئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "2 ہجری",
+    "start": "0624-02-26",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Badr in its Qur’ânic Context",
+      "page": 146
+    }
+  },
+  {
+    "id": "badr",
+    "title": "غزوہ بدر",
+    "commentary": [
+      "ابوسفیان کے قافلے کے پیچھے نکلنے والے 300 سے 317 مسلمان، جن کے پاس دو گھوڑے اور ستر اونٹ تھے، مکہ کے تقریباً ایک ہزار کے لشکر سے ٹکرائے۔",
+      "مسلمانوں کو فیصلہ کن فتح ملی: چودہ مسلمان شہید ہوئے، جبکہ ابوجہل سمیت ستر مشرک مارے گئے اور ستر قید ہوئے۔"
+    ],
+    "notes": "جنگ جمعہ 17 رمضان کو ہوئی۔",
+    "hijri-date": "جمعہ، 17 رمضان 2 ہجری",
+    "start": "0624-03-16",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Reason of the Battle",
+      "page": 136
+    }
+  },
+  {
+    "id": "first-eid",
+    "title": "پہلی عید الفطر",
+    "commentary": [
+      "بدر کی فتح کے کچھ ہی دن بعد پہلی عید الفطر منائی گئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "1 شوال 2 ہجری",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Badr in its Qur’ânic Context",
+      "page": 146
+    }
+  },
+  {
+    "id": "al-kudr",
+    "title": "غزوہ کُدر",
+    "commentary": [
+      "بدر کے سات دن بعد آپ نے کُدر کے مقام پر بنو سلیم پر اچانک حملہ کیا۔ وہ بھاگ چکے تھے، اور پانچ سو اونٹ ہاتھ آئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 2 ہجری",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Kudr Invasion",
+      "page": 147
+    }
+  },
+  {
+    "id": "umair-plot",
+    "title": "عمیر بن وہب کی قتل کی سازش",
+    "commentary": [
+      "صفوان بن امیہ کے اکسانے پر عمیر بن وہب زہر میں بجھی تلوار لے کر آپ کو قتل کرنے مدینہ آیا۔ نبی ﷺ نے اسے اس کی خفیہ سازش کی تفصیل بتا دی، تو عمیر مسلمان ہو گیا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے؛ بدر کے کچھ بعد۔",
+    "hijri-date": "شوال 2 ہجری",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Attempt on the Life of the Prophet [pbuh]",
+      "page": 148
+    }
+  },
+  {
+    "id": "qainuqa",
+    "title": "بنو قینقاع کا محاصرہ",
+    "commentary": [
+      "بنو قینقاع، جو معاہدہ توڑنے والے پہلے یہودی قبیلہ تھے، نے ایک مسلمان عورت کی بے حرمتی کی، جس پر دونوں طرف قتل ہوئے۔",
+      "پندرہ دن کے محاصرے کے بعد انہوں نے ہتھیار ڈال دیے اور انہیں شام کے مقام اذرعات کی طرف جلاوطن کیا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ہفتہ، 15 شوال 2 ہجری، 15 دن کا محاصرہ",
+    "start": "0624-04-07",
+    "end": "0624-04-22",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Qainuqa‘ Jews breach the Covenant",
+      "page": 150
+    }
+  },
+  {
+    "id": "sawiq",
+    "title": "غزوہ سویق",
+    "commentary": [
+      "ابوسفیان نے مدینہ کے مضافات پر حملہ کیا؛ پیچھا کیے جانے پر اس کے ساتھی تیزی سے بھاگنے کے لیے ستو کے تھیلے پھینکتے گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالحجہ 2 ہجری",
+    "start": "0624-05-25",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "As-Sawiq Invasion",
+      "page": 151
+    }
+  },
+  {
+    "id": "fatimah-ali",
+    "title": "حضرت فاطمہ اور حضرت علی کا نکاح",
+    "commentary": [
+      "آپ کی صاحبزادی فاطمہ کا نکاح بدر اور احد کے درمیانی عرصے میں علی بن ابی طالب سے ہوا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "ذوالحجہ 2 ہجری",
+    "start": "0624-05-25",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "dhi-amr",
+    "title": "غزوہ ذی امر",
+    "commentary": [
+      "آپ ساڑھے چار سو افراد کے ساتھ بنو ثعلبہ اور بنو محارب کی طرف نکلے، جو پہاڑوں میں بکھر گئے؛ مسلمانوں نے پورا صفر ذی امر میں قیام کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم - صفر 3 ہجری",
+    "start": "0624-06-24",
+    "end": "0624-08-21",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "As-Sawiq Invasion",
+      "page": 151
+    }
+  },
+  {
+    "id": "marriage-hafsah",
+    "title": "حضرت حفصہ بنت عمر سے نکاح",
+    "commentary": [
+      "خنیس بن حذافہ کی وفات کے بعد حفصہ کا نکاح 3 ہجری میں نبی ﷺ سے ہوا۔"
+    ],
+    "notes": "",
+    "hijri-date": "3 ہجری",
+    "start": "0624-06-24",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "kab-al-ashraf",
+    "title": "کعب بن اشرف کا قتل",
+    "commentary": [
+      "کعب بن اشرف، ایک یہودی شاعر جو قریش کو بھڑکاتا اور اپنے اشعار میں مسلمان عورتوں کی توہین کرتا تھا، رات کے وقت محمد بن مسلمہ اور ان کے ساتھیوں کے ہاتھوں مارا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "14 ربیع الاول 3 ہجری",
+    "start": "0624-09-04",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Ka‘b bin Al-Ashraf, killed",
+      "page": 152
+    }
+  },
+  {
+    "id": "buhran",
+    "title": "غزوہ بحران",
+    "commentary": [
+      "آپ تین سو افراد کے ساتھ فُرع کے علاقے میں بحران تک گشت پر گئے؛ کوئی لڑائی نہیں ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الثانی - جمادی الاولیٰ 3 ہجری",
+    "start": "0624-09-21",
+    "end": "0624-11-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Buhran",
+      "page": 153
+    }
+  },
+  {
+    "id": "qaradah",
+    "title": "زید بن حارثہ کے ہاتھ قریش کا قافلہ",
+    "commentary": [
+      "زید نے عراق کے راستے جانے والا قریش کا ایک بڑا قافلہ پکڑ لیا؛ یہ احد سے پہلے کی سب سے کامیاب مہم تھی۔"
+    ],
+    "notes": "",
+    "hijri-date": "جمادی الآخرہ 3 ہجری",
+    "start": "0624-11-19",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Zaid bin Harithah leads a Campaign on the Trade Routes of Quraish",
+      "page": 153
+    }
+  },
+  {
+    "id": "uhud",
+    "title": "غزوہ احد",
+    "commentary": [
+      "قریش تین ہزار کا لشکر لے کر آئے۔ مسلمانوں کے ایک ہزار میں سے عبداللہ بن ابی تین سو کو لے کر واپس چلا گیا۔",
+      "ابتدائی کامیابی اس وقت شکست میں بدل گئی جب زیادہ تر تیر انداز اپنی جگہ چھوڑ گئے؛ خالد بن ولید کے سواروں نے پیچھے سے حملہ کیا اور نبی ﷺ زخمی ہوئے۔",
+      "ستر مسلمان شہید ہوئے جن میں حمزہ بھی تھے؛ مشرکین کے بائیس (بعض کے نزدیک سینتیس) آدمی مارے گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ہفتہ، 7 شوال 3 ہجری",
+    "start": "0625-03-23",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Defence Plan",
+      "page": 161
+    }
+  },
+  {
+    "id": "hamra-al-asad",
+    "title": "غزوہ حمراء الاسد",
+    "commentary": [
+      "احد کے اگلے دن آپ صرف ان لوگوں کو لے کر جو احد میں لڑے تھے قریش کے تعاقب میں نکلے، اور تین دن (پیر سے بدھ) حمراء الاسد میں پڑاؤ ڈالا، جس سے ابوسفیان نے واپس آ کر حملہ کرنے کا ارادہ ترک کر دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "9-11 شوال 3 ہجری",
+    "start": "0625-03-25",
+    "end": "0625-03-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hamrâ’ Al-Asad Invasion",
+      "page": 181
+    }
+  },
+  {
+    "id": "abu-salamah-mission",
+    "title": "ابوسلمہ کی بنو اسد کی طرف مہم",
+    "commentary": [
+      "ابوسلمہ نے ڈیڑھ سو افراد کے ساتھ حملے کی تیاری کرتے بنو اسد کو جا لیا۔ ان کا احد کا زخم دوبارہ کھل گیا اور کچھ ہی عرصے بعد وہ وفات پا گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "1 محرم 4 ہجری",
+    "start": "0625-06-13",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abi Salamah Mission",
+      "page": 186
+    }
+  },
+  {
+    "id": "marriage-zainab-khuzaimah",
+    "title": "حضرت زینب بنت خزیمہ سے نکاح",
+    "commentary": [
+      "محتاجوں کی دیکھ بھال کی وجہ سے «ام المساکین» کہلانے والی زینب، عبداللہ بن جحش کی بیوہ، کا نکاح 4 ہجری میں آپ سے ہوا، اور وہ دو یا تین ماہ بعد وفات پا گئیں۔"
+    ],
+    "notes": "",
+    "hijri-date": "4 ہجری",
+    "start": "0625-06-13",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "abdullah-bin-unais",
+    "title": "عبداللہ بن انیس کی مہم",
+    "commentary": [
+      "عبداللہ بن انیس کو خالد بن سفیان ہذلی سے نمٹنے بھیجا گیا جو مسلمانوں پر حملے کے لیے لوگ جمع کر رہا تھا؛ وہ اٹھارہ دن بعد اس کا سر لے کر لوٹے۔"
+    ],
+    "notes": "",
+    "hijri-date": "5 محرم 4 ہجری",
+    "start": "0625-06-17",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Errand led by ‘Abdullah bin Unais",
+      "page": 186
+    }
+  },
+  {
+    "id": "ar-raji",
+    "title": "سانحہ رجیع",
+    "commentary": [
+      "عضل اور قارہ کی درخواست پر بھیجے گئے معلمین کو رجیع کے مقام پر دھوکا دیا گیا۔ اکثر شہید ہوئے، اور خبیب اور زید بن دثنہ کو مکہ میں بیچ کر قتل کر دیا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "صفر 4 ہجری",
+    "start": "0625-07-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Event of Ar-Raji‘",
+      "page": 187
+    }
+  },
+  {
+    "id": "bir-maunah",
+    "title": "سانحہ بئرِ معونہ",
+    "commentary": [
+      "ابوبراء کی درخواست پر نجد بھیجے گئے ستر قاری (ایک روایت میں چالیس) بئرِ معونہ پر بنو سلیم کی شاخوں رِعل، ذکوان اور عُصیّہ کے ہاتھوں شہید کیے گئے۔ نبی ﷺ نے ایک مہینہ تک قاتلوں کے خلاف دعا کی۔"
+    ],
+    "notes": "",
+    "hijri-date": "صفر 4 ہجری",
+    "start": "0625-07-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Tragedy of Ma‘una Well",
+      "page": 188
+    }
+  },
+  {
+    "id": "banu-nadir",
+    "title": "بنو نضیر کی جلاوطنی",
+    "commentary": [
+      "بنو نضیر نے سازش کی کہ جب آپ ان کی ایک دیوار کے پاس بیٹھے ہوں تو اوپر سے چکی کا پاٹ گرا دیں۔ محاصرے کے بعد وہ چھ سو اونٹوں پر سامان لاد کر نکلنے پر راضی ہوئے، اور زیادہ تر خیبر چلے گئے۔",
+      "سورۃ الحشر کا بیشتر حصہ اسی بارے میں نازل ہوا۔"
+    ],
+    "notes": "کتاب اگست 625ء بتاتی ہے۔",
+    "hijri-date": "ربیع الاول 4 ہجری",
+    "start": "0625-08-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani An-Nadeer Invasion",
+      "page": 191
+    }
+  },
+  {
+    "id": "badr-2",
+    "title": "بدرِ ثانیہ (بدر الموعد)",
+    "commentary": [
+      "احد کے دن ابوسفیان کے دیے ہوئے وعدے کے مطابق آپ ڈیڑھ ہزار افراد کے ساتھ بدر گئے۔ قریش لوٹ گئے، اور مسلمانوں نے وہاں کے بازار میں تجارت کی۔"
+    ],
+    "notes": "کتاب جنوری 626ء بتاتی ہے۔",
+    "hijri-date": "شعبان 4 ہجری",
+    "start": "0626-01-06",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Badr, the Second",
+      "page": 192
+    }
+  },
+  {
+    "id": "marriage-umm-salamah",
+    "title": "حضرت ام سلمہ سے نکاح",
+    "commentary": [
+      "جمادی الآخرہ 4 ہجری میں ابوسلمہ کی وفات کے بعد آپ نے شوال میں ان کی بیوہ، بنو مخزوم کی ام سلمہ، سے نکاح کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال 4 ہجری",
+    "start": "0626-03-06",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "dumat-al-jandal",
+    "title": "غزوہ دومۃ الجندل",
+    "commentary": [
+      "آپ ایک ہزار افراد کے ساتھ شام کی سرحد پر ان قبائل کی طرف گئے جو مسافروں کو لوٹتے اور مدینہ پر حملے کی تیاری کر رہے تھے۔ وہ بھاگ گئے، اور آپ علاقے میں معاہدے کر کے لوٹے۔"
+    ],
+    "notes": "ربیع الاول 5 ہجری کے آخر میں۔",
+    "hijri-date": "25 ربیع الاول 5 ہجری",
+    "start": "0626-08-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Doumat Al-Jandal",
+      "page": 193
+    }
+  },
+  {
+    "id": "trench",
+    "title": "غزوہ خندق (احزاب)",
+    "commentary": [
+      "یہودی سرداروں نے قریش، غطفان اور دوسرے قبائل کو دس ہزار کے لشکر میں اکٹھا کیا۔ سلمان فارسی کے مشورے پر مسلمانوں نے خندق کھودی، اور تین ہزار مسلمانوں نے اس کا دفاع کیا۔",
+      "محاصرہ ایک مہینے سے زیادہ چلا، یہاں تک کہ اتحادیوں میں پھوٹ اور ٹھنڈی تیز آندھی نے انہیں واپس جانے پر مجبور کر دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شوال - ذوالقعدہ 5 ہجری",
+    "start": "0627-02-23",
+    "end": "0627-04-22",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Ahzab (the Confederates) Invasion",
+      "page": 200
+    }
+  },
+  {
+    "id": "banu-quraizah",
+    "title": "بنو قریظہ کا محاصرہ",
+    "commentary": [
+      "بنو قریظہ نے محاصرے کے دوران عہد توڑا تھا۔ پچیس دن محاصرے کے بعد انہوں نے سعد بن معاذ کے فیصلے پر ہتھیار ڈالے، جو خندق میں لگنے والے زخم سے جلد ہی وفات پا گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 5 ہجری",
+    "start": "0627-03-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Invading Banu Quraiza",
+      "page": 203
+    }
+  },
+  {
+    "id": "marriage-zainab-jahsh",
+    "title": "حضرت زینب بنت جحش سے نکاح",
+    "commentary": [
+      "آپ کی پھوپھی زاد زینب، جنہیں زید بن حارثہ نے طلاق دی تھی، کا نکاح اللہ کے حکم سے آپ سے ہوا (الاحزاب 33:37)۔ اس سے منہ بولے بیٹے کو حقیقی بیٹا سمجھنے کی جاہلی رسم ختم ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 5 ہجری",
+    "start": "0627-03-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "abu-rafi",
+    "title": "ابو رافع سلام بن ابی الحقیق کا قتل",
+    "commentary": [
+      "ابو رافع، جس نے احزاب کے لشکر کو مال دیا اور اکٹھا کیا تھا، خیبر کے قریب اپنے قلعے میں عبداللہ بن عتیک اور خزرج کے چار افراد کے ہاتھوں مارا گیا۔"
+    ],
+    "notes": "ذوالقعدہ یا ذوالحجہ 5 ہجری۔",
+    "hijri-date": "ذوالحجہ 5 ہجری",
+    "start": "0627-04-23",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Military Activities continued",
+      "page": 204
+    }
+  },
+  {
+    "id": "thumamah",
+    "title": "بنو بکر کی طرف مہم؛ ثمامہ کی گرفتاری",
+    "commentary": [
+      "محمد بن مسلمہ کے تیس افراد نے بنو بکر پر حملہ کیا اور بنو حنیفہ کے سردار ثمامہ بن اثال کو پکڑ لائے۔ انہیں مسجد میں باندھا گیا، پھر رہا کیا گیا، تو وہ مسلمان ہو گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم 6 ہجری",
+    "start": "0627-05-23",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Military Activities continued",
+      "page": 204
+    }
+  },
+  {
+    "id": "banu-lihyan",
+    "title": "غزوہ بنو لحیان",
+    "commentary": [
+      "آپ رجیع کے شہدا کا بدلہ لینے دو سو افراد کے ساتھ نکلے۔ بنو لحیان پہاڑوں میں بھاگ گئے، اور یہ مہم چودہ دن جاری رہی۔"
+    ],
+    "notes": "ربیع الاول یا جمادی الاولیٰ 6 ہجری۔",
+    "hijri-date": "ربیع الثانی 6 ہجری",
+    "start": "0627-08-20",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani Lihyan Invasion",
+      "page": 205
+    }
+  },
+  {
+    "id": "al-ais-abul-as",
+    "title": "عیص میں زید؛ ابوالعاص کی حضرت زینب کے پاس واپسی",
+    "commentary": [
+      "زید بن حارثہ کے ایک سو ستر سواروں نے قریش کا قافلہ پکڑا جس کی قیادت نبی ﷺ کی صاحبزادی زینب کے شوہر ابوالعاص کر رہے تھے۔ انہوں نے زینب کی پناہ لی، مسلمانوں نے ان کا مال لوٹا دیا، اور بعد میں وہ مسلمان ہو کر زینب سے دوبارہ ملے۔"
+    ],
+    "notes": "",
+    "hijri-date": "جمادی الاولیٰ 6 ہجری",
+    "start": "0627-09-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Expeditions and Delegations continued",
+      "page": 205
+    }
+  },
+  {
+    "id": "wadi-al-qura-zaid",
+    "title": "زید کی وادی القریٰ کی طرف گشت",
+    "commentary": [
+      "زید کی سربراہی میں بارہ افراد کے دستے پر وادی القریٰ میں حملہ ہوا؛ نو شہید ہوئے اور زید بچ نکلے۔"
+    ],
+    "notes": "",
+    "hijri-date": "رجب 6 ہجری",
+    "start": "0627-11-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Expeditions and Delegations continued",
+      "page": 206
+    }
+  },
+  {
+    "id": "banu-mustaliq",
+    "title": "غزوہ بنو المصطلق (مریسیع)",
+    "commentary": [
+      "2 شعبان کو خبر ملی کہ حارث بن ضرار لشکر جمع کر رہا ہے۔ مسلمانوں نے مریسیع کے چشمے پر بنو المصطلق کو جا لیا اور شکست دی۔",
+      "واپسی پر عبداللہ بن ابی نے مہاجرین اور انصار میں فتنہ ڈالنے کی کوشش کی (سورۃ المنافقون)۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 6 ہجری",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani Al-Mustaliq (Muraisi‘) Ghazwah, Sha‘ban 6 Hijri",
+      "page": 207
+    }
+  },
+  {
+    "id": "marriage-juwairiyah",
+    "title": "حضرت جویریہ بنت حارث سے نکاح",
+    "commentary": [
+      "آپ نے بنو المصطلق کے سردار کی بیٹی جویریہ کو آزاد کر کے ان سے نکاح کیا۔ اس نکاح کے احترام میں صحابہ نے ان کے قبیلے کے سو گھرانے آزاد کر دیے۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 6 ہجری",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "ifk",
+    "title": "حضرت عائشہ پر تہمت (واقعہ افک)",
+    "commentary": [
+      "مریسیع سے واپسی پر حضرت عائشہ اپنا ہار ڈھونڈتے ہوئے پیچھے رہ گئیں اور صفوان بن معطل انہیں لے کر آئے۔ ابن ابی کی قیادت میں منافقین نے تہمت پھیلائی۔",
+      "تقریباً ایک ماہ بعد سورۃ النور کی آیات نے ان کی براءت کا اعلان کیا۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں۔",
+    "hijri-date": "شعبان - رمضان 6 ہجری",
+    "start": "0627-12-16",
+    "end": "0628-02-12",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Slander Affair",
+      "page": 209
+    }
+  },
+  {
+    "id": "dumat-abdurrahman",
+    "title": "دومۃ الجندل میں عبدالرحمن بن عوف",
+    "commentary": [
+      "عبدالرحمن نے بنو کلب کو اسلام کی دعوت دی؛ انہوں نے قبول کیا، اور عبدالرحمن نے ان کے سردار کی بیٹی تماضر سے نکاح کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 6 ہجری",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "fadak-ali",
+    "title": "فدک میں بنو سعد کی طرف حضرت علی کی مہم",
+    "commentary": [
+      "علی نے بنو سعد بن بکر پر حملہ کیا جو خیبر کے یہود کی مدد کے لیے جمع ہو رہے تھے، اور پانچ سو اونٹ اور دو ہزار بکریاں حاصل کیں۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 6 ہجری",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "wadi-al-qura-fazarah",
+    "title": "وادی القریٰ میں فزارہ کے خلاف مہم",
+    "commentary": [
+      "فزارہ نے نبی ﷺ کو قتل کرنے کی کوشش کی تو ابوبکر (یا زید) کی قیادت میں ایک دستے نے فجر کے وقت ان پر حملہ کیا اور قیدی پکڑے، جن میں ام قرفہ بھی تھی۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 6 ہجری",
+    "start": "0628-01-14",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "hudaibiyah",
+    "title": "صلحِ حدیبیہ اور بیعتِ رضوان",
+    "commentary": [
+      "ایک خواب کی بنا پر آپ تقریباً ڈیڑھ ہزار مسلمانوں کے ساتھ عمرے کے لیے نکلے، جن کے پاس نیام میں بند تلواروں کے سوا ہتھیار نہ تھے۔ قریش نے حدیبیہ کے مقام پر راستہ روک لیا۔",
+      "جب سفیر بن کر جانے والے عثمان کے قتل کی افواہ پھیلی تو صحابہ نے درخت کے نیچے موت تک لڑنے کی بیعت کی (بیعتِ رضوان)۔",
+      "دس سال کی جنگ بندی طے پائی: مسلمان اس سال لوٹ جائیں اور اگلے سال عمرہ کریں۔ سورۃ الفتح نے اسے فتحِ مبین کہا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 6 ہجری",
+    "start": "0628-03-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 213
+    }
+  },
+  {
+    "id": "letters-to-kings",
+    "title": "بادشاہوں اور حکمرانوں کو خطوط",
+    "commentary": [
+      "«محمد رسول اللہ» کندہ چاندی کی مہر کے ساتھ آپ نے حکمرانوں کو اسلام کی دعوت دینے کے لیے سفیر بھیجے: حبشہ کے نجاشی، مصر کے مقوقس، فارس کے کسریٰ، قیصر (ہرقل)، بحرین کے منذر بن ساویٰ، یمامہ کے ہوذہ، دمشق کے حارث غسانی، اور عمان کے جیفر اور عبد۔",
+      "کسریٰ نے اپنا خط پھاڑ ڈالا؛ مقوقس نے تحفے بھیجے جن میں ماریہ بھی تھیں۔"
+    ],
+    "notes": "حدیبیہ سے واپسی پر ارادہ کیا گیا اور خطوط محرم 7 ہجری میں، خیبر سے چند دن پہلے، بھیجے گئے۔",
+    "hijri-date": "محرم 7 ہجری",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet’s Plans to spread the Message of Islam beyond Arabia",
+      "page": 221
+    }
+  },
+  {
+    "id": "marriage-umm-habibah",
+    "title": "حضرت ام حبیبہ سے نکاح",
+    "commentary": [
+      "ابوسفیان کی بیٹی ام حبیبہ حبشہ میں اسلام پر قائم رہیں جبکہ ان کا شوہر عیسائی ہو کر مر گیا۔ نجاشی نے نبی ﷺ کی طرف سے ان کا نکاح کیا اور انہیں مدینہ بھیج دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم 7 ہجری",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "dhu-qarad",
+    "title": "غزوہ ذی قرد (غابہ)",
+    "commentary": [
+      "فزارہ کے حملہ آور نبی ﷺ کی اونٹنیاں ہانک لے گئے۔ سلمہ بن اکوع نے اکیلے پیدل ان کا پیچھا کیا، تیر برسائے اور اونٹنیاں چھڑا لائے۔"
+    ],
+    "notes": "اکثر علما کے نزدیک خیبر سے تین دن پہلے۔",
+    "hijri-date": "محرم 7 ہجری",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Dhu Qarad Invasion",
+      "page": 231
+    }
+  },
+  {
+    "id": "khaibar",
+    "title": "فتحِ خیبر",
+    "commentary": [
+      "آپ مدینہ سے 60 تا 80 میل شمال میں یہود کے قلعہ بند مرکز خیبر کی طرف چودہ سو افراد کے ساتھ گئے۔ قلعے ایک ایک کر کے فتح ہوئے، اور علی نے جھنڈا سنبھالا۔",
+      "یہود کو اس شرط پر رہنے دیا گیا کہ زمین کاشت کریں اور آدھی پیداوار دیں۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم - صفر 7 ہجری",
+    "start": "0628-05-11",
+    "end": "0628-07-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conquest of Khaibar",
+      "page": 233
+    }
+  },
+  {
+    "id": "khalid-amr-islam",
+    "title": "خالد بن ولید اور عمرو بن عاص کا قبولِ اسلام",
+    "commentary": [
+      "عمرو بن عاص، خالد بن ولید اور عثمان بن طلحہ مدینہ آ کر مسلمان ہوئے۔ نبی ﷺ نے فرمایا کہ مکہ نے اپنے جگر کے ٹکڑے ہماری طرف ڈال دیے ہیں۔"
+    ],
+    "notes": "کتاب اسے 7 ہجری کے شروع میں رکھتی ہے۔",
+    "hijri-date": "7 ہجری",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 219
+    }
+  },
+  {
+    "id": "jafar-returns",
+    "title": "جعفر اور مہاجرینِ حبشہ کی واپسی",
+    "commentary": [
+      "خیبر کی فتح کے وقت جعفر بن ابی طالب اور حبشہ کے باقی مہاجرین، اشعری مسلمانوں کے ساتھ، آ پہنچے۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "صفر 7 ہجری",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 237
+    }
+  },
+  {
+    "id": "marriage-safiyah",
+    "title": "حضرت صفیہ بنت حیی سے نکاح",
+    "commentary": [
+      "خیبر کی قیدیوں میں شامل حیی بن اخطب کی بیٹی صفیہ کو آپ نے آزاد کیا اور واپسی کے سفر میں ان سے نکاح کیا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "صفر 7 ہجری",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "poisoned-sheep",
+    "title": "خیبر میں زہر آلود بکری",
+    "commentary": [
+      "ایک یہودی عورت زینب بنت حارث نے آپ کو زہر آلود بھنی ہوئی بکری پیش کی۔ آپ نے نوالہ تھوک دیا، مگر صحابی بشر بن براء وفات پا گئے۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "صفر 7 ہجری",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "fadak-wadi-qura",
+    "title": "فدک کی اطاعت؛ وادی القریٰ اور تیماء",
+    "commentary": [
+      "فدک نے خیبر جیسی شرائط مانگیں، وادی القریٰ مختصر لڑائی کے بعد فتح ہوئی، اور تیماء نے صلح کر لی۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "صفر 7 ہجری",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "daws-arrive",
+    "title": "طفیل کی دوس کے ساتھ آمد",
+    "commentary": [
+      "طفیل بن عمرو دوس کے ستر یا اسی مسلمان گھرانوں کو، جن میں ابوہریرہ بھی تھے، لے کر آئے اور خیبر میں نبی ﷺ سے ملے۔"
+    ],
+    "notes": "7 ہجری کا آغاز۔",
+    "hijri-date": "صفر 7 ہجری",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 286
+    }
+  },
+  {
+    "id": "return-from-khaibar",
+    "title": "خیبر سے مدینہ واپسی",
+    "commentary": [
+      "آپ صفر کے آخر یا ربیع الاول 7 ہجری کے شروع میں مدینہ لوٹے۔"
+    ],
+    "notes": "",
+    "hijri-date": "1 ربیع الاول 7 ہجری",
+    "start": "0628-07-09",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 239
+    }
+  },
+  {
+    "id": "platoons-7ah",
+    "title": "7 ہجری کے سرایا",
+    "commentary": [
+      "کئی چھوٹی مہمات: غالب بن عبداللہ کی بنو ملوح کی طرف (صفر/ربیع الاول)، عمر کی تربہ کی طرف (شعبان)، بشیر بن سعد کی فدک کی طرف (شعبان)، غالب کی میفعہ کی طرف (رمضان)، اور بشیر کی یُمن و جبار کی طرف (شوال)۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول - شوال 7 ہجری",
+    "start": "0628-07-09",
+    "end": "0629-03-01",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Expedition called Dhat-ur-Riqa‘ (in the year 7 A.H.)",
+      "page": 241
+    }
+  },
+  {
+    "id": "dhat-ar-riqa",
+    "title": "غزوہ ذات الرقاع",
+    "commentary": [
+      "آپ غطفان کے بدو قبائل کے مقابلے کے لیے نجد گئے۔ صحابہ نے زخمی پاؤں پر چیتھڑے لپیٹے، اسی سے یہ نام پڑا۔ اس میں صلاۃ الخوف ادا کی گئی۔"
+    ],
+    "notes": "کتاب 7 ہجری میں خیبر کے بعد کی تاریخ کو ترجیح دیتی ہے؛ بعض اسے 4 ہجری میں رکھتے ہیں۔",
+    "hijri-date": "ربیع الثانی 7 ہجری",
+    "start": "0628-08-08",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Expedition called Dhat-ur-Riqa‘ (in the year 7 A.H.)",
+      "page": 240
+    }
+  },
+  {
+    "id": "umrat-al-qada",
+    "title": "عمرۃ القضاء",
+    "commentary": [
+      "حدیبیہ کے معاہدے کے مطابق آپ دو ہزار مسلمانوں اور ساٹھ قربانی کے اونٹوں کے ساتھ مکہ میں داخل ہوئے اور تین دن ٹھہرے، جبکہ قریش پہاڑیوں سے دیکھتے رہے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 7 ہجری",
+    "start": "0629-03-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Compensatory ‘Umrah",
+      "page": 243
+    }
+  },
+  {
+    "id": "marriage-maimunah",
+    "title": "حضرت میمونہ بنت حارث سے نکاح",
+    "commentary": [
+      "عمرۃ القضاء کے بعد آپ نے ام الفضل کی بہن میمونہ سے نکاح کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ 7 ہجری",
+    "start": "0629-03-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "shuja-hawazin",
+    "title": "شجاع بن وہب کی ہوازن کی طرف مہم",
+    "commentary": [
+      "پچیس افراد کی ایک چھوٹی مہم ہوازن کی طرف گئی؛ کوئی مزاحمت نہ ہوئی اور کچھ مالِ غنیمت ملا۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول 8 ہجری",
+    "start": "0629-06-29",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Compensatory ‘Umrah",
+      "page": 244
+    }
+  },
+  {
+    "id": "mutah",
+    "title": "غزوہ موتہ",
+    "commentary": [
+      "بصریٰ بھیجے گئے آپ کے سفیر کو ایک غسانی حاکم نے قتل کر دیا تو آپ نے تین ہزار کا لشکر بھیجا: امیر زید بن حارثہ، ان کے بعد جعفر، پھر عبداللہ بن رواحہ۔",
+      "ان کا سامنا دو لاکھ تک کے رومی اور عرب لشکر سے ہوا۔ تینوں امیر شہید ہوئے، اور خالد بن ولید نے کمان سنبھال کر کم سے کم نقصان کے ساتھ لشکر کو واپس نکالا۔"
+    ],
+    "notes": "کتاب ستمبر 629ء بتاتی ہے۔",
+    "hijri-date": "جمادی الاولیٰ 8 ہجری",
+    "start": "0629-08-27",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Mu’tah",
+      "page": 245
+    }
+  },
+  {
+    "id": "dhat-as-salasil",
+    "title": "سریہ ذات السلاسل",
+    "commentary": [
+      "عمرو بن عاص تین سو افراد کے ساتھ، جن کی بعد میں ابوعبیدہ کے ذریعے کمک کی گئی، شام کی سرحد پر روم کے حلیف قضاعہ قبائل کی طرف گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "جمادی الآخرہ 8 ہجری",
+    "start": "0629-09-26",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Mu’tah",
+      "page": 247
+    }
+  },
+  {
+    "id": "khadrah",
+    "title": "سریہ خضرہ (ابوقتادہ)",
+    "commentary": [
+      "ابوقتادہ نے پندرہ افراد کے ساتھ خضرہ میں غطفان کا ایک اجتماع منتشر کر دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 8 ہجری",
+    "start": "0629-11-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Khadrah Campaign",
+      "page": 247
+    }
+  },
+  {
+    "id": "treaty-broken",
+    "title": "قریش کی جانب سے صلحِ حدیبیہ کی خلاف ورزی",
+    "commentary": [
+      "قریش کے حلیف بنو بکر نے رات کے وقت وتیر کے مقام پر مسلمانوں کے حلیف خزاعہ پر حملہ کیا، اور قریش نے آدمیوں اور ہتھیاروں سے مدد کی۔ معاہدہ بحال کرانے کے لیے ابوسفیان کا مدینہ کا سفر ناکام رہا۔"
+    ],
+    "notes": "",
+    "hijri-date": "شعبان 8 ہجری",
+    "start": "0629-11-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Conquest Events",
+      "page": 249
+    }
+  },
+  {
+    "id": "march-to-makkah",
+    "title": "لشکر کی مکہ کی طرف روانگی",
+    "commentary": [
+      "منزل کو خفیہ رکھتے ہوئے آپ دس ہزار کے لشکر کے ساتھ مدینہ سے نکلے۔ راستے میں عباس آ ملے، اور مر الظہران میں ابوسفیان کو آپ کے پاس لایا گیا تو وہ مسلمان ہو گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "10 رمضان 8 ہجری",
+    "start": "0630-01-01",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 251
+    }
+  },
+  {
+    "id": "conquest-makkah",
+    "title": "فتحِ مکہ",
+    "commentary": [
+      "لشکر چار راستوں سے مکہ میں داخل ہوا، اس حکم کے ساتھ کہ صرف اپنے دفاع میں لڑیں۔ جو اپنے گھر میں رہے، حرم میں داخل ہو یا ابوسفیان کے گھر میں آ جائے، اسے امان تھی۔",
+      "آپ نے کعبہ کے گرد 360 بت گرا دیے، اندر سے تصویریں ہٹوائیں، اور بلال نے کعبہ کی چھت پر اذان دی۔",
+      "آپ نے اہلِ مکہ کو معاف کر دیا اور انیس دن وہاں قیام کیا۔"
+    ],
+    "notes": "کتاب کے مطابق آپ منگل 17 رمضان 8 ہجری کو مر الظہران سے مکہ کی طرف روانہ ہوئے۔",
+    "hijri-date": "17 رمضان 8 ہجری",
+    "start": "0630-01-09",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 252
+    }
+  },
+  {
+    "id": "idols-destroyed",
+    "title": "عُزیٰ، سُواع اور مَنات کا انہدام",
+    "commentary": [
+      "خالد بن ولید نے نخلہ میں عُزیٰ کو، عمرو بن عاص نے ہذیل کے سُواع کو، اور سعد بن زید نے مُشلّل میں مَنات کو گرایا۔"
+    ],
+    "notes": "رمضان 8 ہجری۔",
+    "hijri-date": "25 رمضان 8 ہجری",
+    "start": "0630-01-16",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 256
+    }
+  },
+  {
+    "id": "banu-jadhimah",
+    "title": "بنو جذیمہ میں حضرت خالد",
+    "commentary": [
+      "خالد کو بنو جذیمہ کو اسلام کی دعوت دینے بھیجا گیا مگر انہوں نے ان میں سے کچھ کو قتل کر دیا۔ نبی ﷺ نے دو بار فرمایا کہ میں خالد کے اس فعل سے بری ہوں، اور علی کو خون بہا ادا کرنے بھیجا۔"
+    ],
+    "notes": "تاریخ اندازاً ہے؛ فتح کے بعد۔",
+    "hijri-date": "1 شوال 8 ہجری",
+    "start": "0630-01-22",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 256
+    }
+  },
+  {
+    "id": "hunain",
+    "title": "غزوہ حنین",
+    "commentary": [
+      "مالک بن عوف کی قیادت میں ہوازن اور ثقیف اوطاس میں جمع ہوئے۔ نبی ﷺ بارہ ہزار کے لشکر کے ساتھ نکلے، جن میں دو ہزار مکہ کے نئے مسلمان تھے۔",
+      "وادی حنین میں گھات لگا کر حملہ ہوا تو لشکر بکھر گیا، مگر آپ ثابت قدم رہے اور عباس نے صحابہ کو پکارا تو وہ لوٹ آئے؛ پانسہ پلٹا اور دشمن کو شکست ہوئی۔"
+    ],
+    "notes": "لشکر بدھ 10 شوال کی رات حنین پہنچا۔",
+    "hijri-date": "10 شوال 8 ہجری",
+    "start": "0630-01-31",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Islamic Army stunned the Archers and the Attackers",
+      "page": 260
+    }
+  },
+  {
+    "id": "taif-siege",
+    "title": "طائف کا محاصرہ",
+    "commentary": [
+      "شکست خوردہ ثقیف قلعہ بند شہر طائف میں جا چھپے۔ دس سے بیس دن (بعض کے نزدیک چالیس) تک منجنیق اور انگوروں کے باغات جلانے کے ساتھ محاصرہ رہا، پھر اٹھا لیا گیا۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں؛ شوال 8 ہجری۔",
+    "hijri-date": "15 شوال - 5 ذوالقعدہ 8 ہجری",
+    "start": "0630-02-05",
+    "end": "0630-02-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hot Pursuit of the Enemy",
+      "page": 262
+    }
+  },
+  {
+    "id": "jiranah",
+    "title": "جعرانہ میں مالِ غنیمت کی تقسیم",
+    "commentary": [
+      "آپ نے مالِ غنیمت تقسیم کرنے سے پہلے دس سے زیادہ راتیں ہوازن کا انتظار کیا، اور نئے مسلمان سرداروں کو دل کھول کر دیا۔",
+      "انصار کو رنج ہوا، یہاں تک کہ آپ نے انہیں یاد دلایا کہ لوگ بکریاں اور اونٹ لے جائیں گے اور وہ رسول اللہ کو ساتھ لے کر گھر جائیں گے۔ ہوازن کا وفد آیا اور ان کے قیدی لوٹا دیے گئے۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "5 ذوالقعدہ 8 ہجری",
+    "start": "0630-02-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Distribution of the Booty at Al-Ji‘ranah",
+      "page": 263
+    }
+  },
+  {
+    "id": "jiranah-umrah",
+    "title": "جعرانہ سے عمرہ اور مدینہ واپسی",
+    "commentary": [
+      "آپ نے عمرہ ادا کیا، عتاب بن اسید کو مکہ کا گورنر مقرر کیا، اور ذوالقعدہ 8 ہجری کی آخری چھ راتوں میں مدینہ پہنچے۔"
+    ],
+    "notes": "",
+    "hijri-date": "24 ذوالقعدہ 8 ہجری",
+    "start": "0630-03-15",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Lesser Pilgrimage (Al-‘Umrah) to Makkah and leaving for Madinah",
+      "page": 266
+    }
+  },
+  {
+    "id": "kab-bin-zuhair",
+    "title": "کعب بن زہیر کا قبولِ اسلام",
+    "commentary": [
+      "شاعر کعب بن زہیر، جو نبی ﷺ کی ہجو کرتا تھا، طائف کے بعد آیا، مسلمان ہوا اور آپ کی مدح میں اپنا قصیدہ پیش کیا۔"
+    ],
+    "notes": "8 ہجری کے آخر میں۔",
+    "hijri-date": "ذوالحجہ 8 ہجری",
+    "start": "0630-03-22",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 287
+    }
+  },
+  {
+    "id": "zakat-collectors",
+    "title": "قبائل کی طرف زکوٰۃ وصول کرنے والوں کی روانگی",
+    "commentary": [
+      "محرم 9 ہجری کا چاند نکلتے ہی آپ نے قبائل کی طرف زکوٰۃ وصول کرنے والے بھیجے، جن میں عیینہ بن حصن بنو تمیم کی طرف، عدی بن حاتم طے کی طرف اور علاء حضرمی بحرین کی طرف گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم 9 ہجری",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Lesser Pilgrimage (Al-‘Umrah) to Makkah and leaving for Madinah",
+      "page": 268
+    }
+  },
+  {
+    "id": "platoons-9ah",
+    "title": "9 ہجری کے سرایا",
+    "commentary": [
+      "عیینہ بن حصن بنو تمیم کی طرف (محرم)، قطبہ بن عامر خثعم کی طرف (صفر)، ضحاک بن سفیان بنو کلاب کی طرف (ربیع الاول)، اور علقمہ بن مجزز جدہ کے ساحل کی طرف (ربیع الثانی)۔"
+    ],
+    "notes": "",
+    "hijri-date": "محرم - ربیع الثانی 9 ہجری",
+    "start": "0630-04-20",
+    "end": "0630-08-15",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 268
+    }
+  },
+  {
+    "id": "umm-kulthum-dies",
+    "title": "صاحبزادی حضرت ام کلثوم کی وفات",
+    "commentary": [
+      "آپ کی صاحبزادی ام کلثوم، حضرت عثمان کی اہلیہ، وفات پا گئیں، اور نبی ﷺ کو بہت دکھ ہوا۔"
+    ],
+    "notes": "",
+    "hijri-date": "9 ہجری",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Some Important Events that featured that Year",
+      "page": 280
+    }
+  },
+  {
+    "id": "year-of-delegations",
+    "title": "عام الوفود",
+    "commentary": [
+      "فتحِ مکہ اور تبوک کے بعد ستر سے زیادہ وفود اسلام قبول کرنے یا معاہدہ کرنے مدینہ آئے، زیادہ تر 9 اور 10 ہجری میں، جن میں ہمدان، فزارہ، تجیب، طے اور حمیر کے بادشاہ شامل تھے۔"
+    ],
+    "notes": "",
+    "hijri-date": " 9 ہجری - ذوالحجہ 10 ہجری",
+    "start": "0630-04-20",
+    "end": "0632-03-28",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 286
+    }
+  },
+  {
+    "id": "najran",
+    "title": "نجران کے عیسائیوں کا وفد",
+    "commentary": [
+      "نجران کے ساٹھ افراد حضرت عیسیٰ کے بارے میں بحث کرنے آئے۔ آپ نے انہیں مباہلے کی دعوت دی (آل عمران 3:59-61)؛ انہوں نے انکار کیا اور جزیہ دینے پر راضی ہو گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "9 ہجری",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 290
+    }
+  },
+  {
+    "id": "banu-hanifah",
+    "title": "مسیلمہ کے ساتھ بنو حنیفہ کا وفد",
+    "commentary": [
+      "بنو حنیفہ کے سترہ افراد آئے جن میں مسیلمہ بھی تھا، جس نے بعد میں 10 ہجری میں نبوت کا دعویٰ کیا اور 12 ہجری میں جنگِ یمامہ میں مارا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "9 ہجری",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 291
+    }
+  },
+  {
+    "id": "udhrah-bali",
+    "title": "عذرہ اور بلی کے وفود",
+    "commentary": [
+      "صفر میں عذرہ کے بارہ افراد اور ربیع الاول میں بلی کا وفد آیا؛ دونوں مسلمان ہوئے اور تین دن ٹھہرے۔"
+    ],
+    "notes": "",
+    "hijri-date": "صفر - ربیع الاول 9 ہجری",
+    "start": "0630-05-20",
+    "end": "0630-07-17",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 287
+    }
+  },
+  {
+    "id": "adi-bin-hatim",
+    "title": "حضرت علی کے ہاتھوں قُلس کا انہدام؛ عدی بن حاتم کا قبولِ اسلام",
+    "commentary": [
+      "علی ڈیڑھ سو افراد کے ساتھ قبیلہ طے کے بت قُلس (جسے فُلس بھی کہتے ہیں) کو گرانے گئے۔ عدی بن حاتم شام بھاگ گئے، مگر ان کی قیدی بہن کو رہا کیا گیا تو اس نے انہیں مدینہ آنے پر آمادہ کیا، جہاں وہ مسلمان ہوئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ربیع الاول 9 ہجری",
+    "start": "0630-06-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 269
+    }
+  },
+  {
+    "id": "tabuk",
+    "title": "غزوہ تبوک",
+    "commentary": [
+      "روم اور غسانیوں کی تیاری کی خبر پر آپ نے تنگی اور سخت گرمی کے زمانے میں عام نفیر کا اعلان کیا۔ عثمان اور ابوبکر نے دل کھول کر خرچ کیا، اور تیس ہزار کا لشکر شمال کی طرف روانہ ہوا۔",
+      "رومی مقابلے پر نہ آئے۔ آپ نے بیس دن تبوک میں قیام کیا اور ایلہ، جرباء اور اذرح سے معاہدے کیے۔ یہ مہم پچاس دن جاری رہی۔"
+    ],
+    "notes": "",
+    "hijri-date": "رجب - رمضان 9 ہجری",
+    "start": "0630-10-14",
+    "end": "0631-01-10",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 272
+    }
+  },
+  {
+    "id": "negus-dies",
+    "title": "نجاشی اصحمہ کی وفات",
+    "commentary": [
+      "حبشہ کے بادشاہ نجاشی کا انتقال ہوا تو نبی ﷺ نے ان کی غائبانہ نمازِ جنازہ پڑھائی۔"
+    ],
+    "notes": "کتاب اسے رجب 9 ہجری، تبوک کے کچھ بعد، بتاتی ہے۔",
+    "hijri-date": "رجب 9 ہجری",
+    "start": "0630-10-14",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "1. A Deputation to Abyssinia (Ethiopia)",
+      "page": 222
+    }
+  },
+  {
+    "id": "three-left-behind",
+    "title": "پیچھے رہ جانے والے تین صحابہ",
+    "commentary": [
+      "کعب بن مالک، مرارہ بن ربیع اور ہلال بن امیہ نے اعتراف کیا کہ ان کے پاس کوئی عذر نہیں تھا۔ پچاس دن ان کا بائیکاٹ رہا، یہاں تک کہ ان کی توبہ قبول ہوئی (التوبہ 9:118)۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان - ذوالقعدہ 9 ہجری",
+    "start": "0630-12-12",
+    "end": "0631-03-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The People Who lagged Behind",
+      "page": 279
+    }
+  },
+  {
+    "id": "thaqif-delegation",
+    "title": "ثقیف کا قبولِ اسلام",
+    "commentary": [
+      "ثقیف نے اپنے سردار عروہ بن مسعود کو مسلمان ہونے پر قتل کر دیا تھا؛ اس کے بعد انہوں نے مدینہ وفد بھیجا اور مسلمان ہو گئے۔ خالد بن ولید کی قیادت میں مغیرہ بن شعبہ سمیت ایک جماعت نے لات کا بت گرا دیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "رمضان 9 ہجری",
+    "start": "0630-12-12",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 288
+    }
+  },
+  {
+    "id": "ibn-ubai-dies",
+    "title": "عبداللہ بن ابی کی موت",
+    "commentary": [
+      "منافقین کا سردار تبوک کے بعد مر گیا۔ عمر کے اعتراض کے باوجود نبی ﷺ نے اس کی نمازِ جنازہ پڑھی، اور بعد میں ایک آیت نے عمر کی رائے کی تائید کی۔"
+    ],
+    "notes": "تاریخ اندازاً ہے۔",
+    "hijri-date": "شوال 9 ہجری",
+    "start": "0631-01-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Some Important Events that featured that Year",
+      "page": 280
+    }
+  },
+  {
+    "id": "abu-bakr-hajj",
+    "title": "حضرت ابوبکر کی امارتِ حج؛ اعلانِ براءت",
+    "commentary": [
+      "ابوبکر نے حج کی امارت کی۔ علی ان کے بعد سورۃ التوبہ (براءت) کی ابتدائی آیات لے کر گئے اور اعلان کیا کہ اس سال کے بعد کوئی مشرک حج نہیں کرے گا اور کوئی برہنہ ہو کر طواف نہیں کرے گا۔"
+    ],
+    "notes": "ذوالقعدہ یا ذوالحجہ 9 ہجری۔",
+    "hijri-date": "ذوالحجہ 9 ہجری",
+    "start": "0631-03-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abu Bakr [R] performs the Pilgrimage",
+      "page": 281
+    }
+  },
+  {
+    "id": "muadh-yemen",
+    "title": "معاذ بن جبل کی یمن روانگی",
+    "commentary": [
+      "معاذ کو یمن بھیجتے ہوئے آپ نے فرمایا کہ شاید اس سال کے بعد تم مجھ سے نہ مل سکو، اور شاید میری مسجد اور قبر کے پاس سے گزرو۔"
+    ],
+    "notes": "",
+    "hijri-date": "10 ہجری",
+    "start": "0631-04-09",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 298
+    }
+  },
+  {
+    "id": "ibrahim-dies",
+    "title": "صاحبزادے حضرت ابراہیم کی وفات",
+    "commentary": [
+      "حضرت ماریہ قبطیہ سے آپ کے بیٹے ابراہیم کم سنی میں مدینہ میں وفات پا گئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "28 یا 29 شوال 10 ہجری",
+    "start": "0632-01-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "farewell-hajj",
+    "title": "حجۃ الوداع",
+    "commentary": [
+      "آپ نے حج کا اعلان کیا تو بڑی تعداد میں لوگ ساتھ جانے کے لیے مدینہ آئے۔ آپ ذوالقعدہ کے آخر میں ہفتے کے دن روانہ ہوئے، ذوالحلیفہ سے احرام باندھا، اور 4 ذوالحجہ کو مکہ پہنچے۔",
+      "آپ نے حج اور عمرہ ایک ساتھ (قِران) ادا کیا۔ 8 تاریخ کو منیٰ، 9 کو عرفات گئے، اور 13 کو منیٰ سے روانہ ہوئے۔"
+    ],
+    "notes": "",
+    "hijri-date": "ذوالقعدہ کے آخری دن - 13 ذوالحجہ 10 ہجری",
+    "start": "0632-02-22",
+    "end": "0632-03-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 298
+    }
+  },
+  {
+    "id": "arafah-sermon",
+    "title": "خطبۂ عرفہ",
+    "commentary": [
+      "نمرہ میں آپ نے جان، مال اور عزت کی حرمت کا اعلان کیا، جاہلیت کے خون اور سود ختم کیے، عورتوں کے ساتھ حسنِ سلوک کی تاکید کی، اور ان کے درمیان اللہ کی کتاب چھوڑی۔",
+      "آیت «آج میں نے تمہارے لیے تمہارا دین مکمل کر دیا» (المائدہ 5:3) نازل ہوئی۔"
+    ],
+    "notes": "",
+    "hijri-date": "9 ذوالحجہ 10 ہجری",
+    "start": "0632-03-06",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 299
+    }
+  },
+  {
+    "id": "nahr-sermon",
+    "title": "یومِ نحر کا خطبہ",
+    "commentary": [
+      "منیٰ میں آپ نے حرمت والے مہینوں، اور اس دن، اس مہینے اور اس شہر کی حرمت بیان کی، اور حاضرین سے کہا کہ یہ پیغام آگے پہنچائیں۔"
+    ],
+    "notes": "",
+    "hijri-date": "10 ذوالحجہ 10 ہجری",
+    "start": "0632-03-07",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 301
+    }
+  },
+  {
+    "id": "nakha-delegation",
+    "title": "آخری وفد: نخع",
+    "commentary": [
+      "نخع کے دو سو افراد محرم 11 ہجری کے وسط میں آئے؛ یہ آپ کے پاس پہنچنے والا آخری وفد تھا۔"
+    ],
+    "notes": "",
+    "hijri-date": "15 محرم 11 ہجری",
+    "start": "0632-04-12",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 294
+    }
+  },
+  {
+    "id": "usamah-army",
+    "title": "اسامہ بن زید کے لشکر کی تیاری",
+    "commentary": [
+      "آپ نے نوجوان اسامہ بن زید کی قیادت میں بلقاء اور فلسطین کی طرف ایک لشکر تیار کیا، اور جب بعض نے ان کی کم عمری پر اعتراض کیا تو آپ نے ان کی امارت پر اصرار کیا۔ آپ کی وفات کے بعد ابوبکر نے یہ لشکر روانہ کیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "صفر 11 ہجری",
+    "start": "0632-04-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Last Expeditions",
+      "page": 303
+    }
+  },
+  {
+    "id": "uhud-farewell",
+    "title": "شہدائے احد کے لیے الوداعی دعا",
+    "commentary": [
+      "صفر کے شروع میں آپ احد تشریف لے گئے اور شہدا کے لیے دعا کی، گویا زندوں اور مردوں دونوں کو الوداع کہہ رہے ہوں۔ پھر منبر پر فرمایا کہ میں حوض پر تمہارا منتظر رہوں گا۔"
+    ],
+    "notes": "صفر 11 ہجری کا آغاز۔",
+    "hijri-date": "3 صفر 11 ہجری",
+    "start": "0632-04-30",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Symptoms of Farewell",
+      "page": 304
+    }
+  },
+  {
+    "id": "illness-begins",
+    "title": "مرضِ وفات کا آغاز",
+    "commentary": [
+      "پیر کے دن بقیع میں ایک جنازے سے واپسی پر آپ کو سر درد اور تیز بخار ہو گیا۔",
+      "آپ بیماری کی حالت میں گیارہ دن نماز پڑھاتے رہے۔ آپ کی بیماری تیرہ یا چودہ دن رہی، اور آخری ہفتہ حضرت عائشہ کے حجرے میں گزرا۔"
+    ],
+    "notes": "",
+    "hijri-date": "29 صفر 11 ہجری",
+    "start": "0632-05-25",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Start of the Disease",
+      "page": 304
+    }
+  },
+  {
+    "id": "abu-bakr-leads-prayer",
+    "title": "حضرت ابوبکر کی امامت",
+    "commentary": [
+      "جب آپ مسجد تک جانے کے قابل نہ رہے تو ابوبکر کو لوگوں کو نماز پڑھانے کا حکم دیا۔"
+    ],
+    "notes": "تاریخیں اندازاً ہیں (حیاتِ مبارکہ کے آخری دن)۔",
+    "hijri-date": "8-12 ربیع الاول 11 ہجری",
+    "start": "0632-06-03",
+    "end": "0632-06-07",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Four days before his death",
+      "page": 306
+    }
+  },
+  {
+    "id": "death",
+    "title": "نبی کریم ﷺ کی وفات",
+    "commentary": [
+      "آپ نے چاشت کے وقت حضرت عائشہ کے حجرے میں «الرفیق الاعلیٰ» کہتے ہوئے وفات پائی۔ آپ کی عمر تریسٹھ سال اور چار دن تھی۔",
+      "عمر نے وفات کا یقین کرنے سے انکار کیا، یہاں تک کہ ابوبکر نے آیت پڑھی: «محمد تو ایک رسول ہی ہیں» (آل عمران 3:144)۔"
+    ],
+    "notes": "پیر، 12 ربیع الاول 11 ہجری۔",
+    "hijri-date": "12 ربیع الاول 11 ہجری",
+    "start": "0632-06-08",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet [pbuh] breathes his Last",
+      "page": 309
+    }
+  },
+  {
+    "id": "caliphate-burial",
+    "title": "حضرت ابوبکر کا انتخاب بطور خلیفہ؛ تدفین",
+    "commentary": [
+      "سقیفہ بنی ساعدہ میں مہاجرین اور انصار نے ابوبکر کو خلیفہ منتخب کیا۔",
+      "منگل کو آپ کو کپڑوں سمیت غسل دیا گیا، لوگوں نے دس دس کی ٹولیوں میں نمازِ جنازہ پڑھی، اور بدھ کی رات آپ کو حضرت عائشہ کے حجرے میں، جہاں وفات ہوئی تھی، دفن کیا گیا۔"
+    ],
+    "notes": "",
+    "hijri-date": "12-14 ربیع الاول 11 ہجری (پیر سے بدھ کی رات تک)",
+    "start": "0632-06-08",
+    "end": "0632-06-10",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Burial and Farewell Preparations to his Honourable Body",
+      "page": 310
+    }
+  }
+]

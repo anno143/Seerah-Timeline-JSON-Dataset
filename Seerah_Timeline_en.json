@@ -1,0 +1,3088 @@
+[
+  {
+    "id": "birth",
+    "title": "Birth of the Prophet Muhammad ﷺ",
+    "commentary": [
+      "Born on a Monday morning in the quarter of Banu Hashim in Makkah, in the Year of the Elephant.",
+      "His grandfather 'Abdul-Muttalib carried him to the Ka'bah, gave thanks to Allah and named him Muhammad, a name rarely used by the Arabs at the time."
+    ],
+    "notes": "The book gives 20 or 22 April 571 CE (Sulaiman Al-Mansourpuri and Mahmud Pasha); 20 April is the date that falls on a Monday. Other scholars give 12 Rabi' al-Awwal.",
+    "hijri-date": "Monday 9 Rabi' al-Awwal, Year of the Elephant",
+    "start": "0571-04-20",
+    "period": "pre-prophethood",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "nursed-thuwaybah",
+    "title": "Nursed by Thuwaybah",
+    "commentary": [
+      "After his mother, the first woman to nurse him was Thuwaybah, a freed slave of Abu Lahab.",
+      "She had earlier nursed his uncle Hamzah and later nursed Abu Salamah."
+    ],
+    "notes": "Approximate dates; the book gives no duration.",
+    "hijri-date": "Rabi' al-Awwal, Year of the Elephant",
+    "start": "0571-04-21",
+    "end": "0571-05-31",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "circumcision",
+    "title": "Circumcision on the seventh day",
+    "commentary": [
+      "His grandfather had him circumcised on his seventh day, following the custom of the Arabs."
+    ],
+    "notes": "",
+    "hijri-date": "16 Rabi' al-Awwal, Year of the Elephant",
+    "start": "0571-04-27",
+    "period": "pre-prophethood",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Birth",
+      "page": 37
+    }
+  },
+  {
+    "id": "nursed-haleemah",
+    "title": "With Haleemah As-Sa'diyah among Banu Sa'd",
+    "commentary": [
+      "Haleemah bint Abi Dhuaib of Banu Sa'd took him to the desert after the other nurses had passed him over because he was an orphan.",
+      "Her household saw blessings in milk, flocks and pasture while he was with them.",
+      "After two years she returned him to his mother but asked to keep him longer, and he stayed with her until he was four or five."
+    ],
+    "notes": "Approximate dates.",
+    "hijri-date": "Year of the Elephant onwards",
+    "start": "0571-06-01",
+    "end": "0575-09-01",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Babyhood",
+      "page": 37
+    }
+  },
+  {
+    "id": "chest-opened",
+    "title": "Gabriel opens his chest",
+    "commentary": [
+      "While he was playing with other boys, Gabriel opened his chest, removed a clot from his heart and washed it with Zamzam water in a golden basin.",
+      "The boys ran to Haleemah saying he had been killed; they found him safe but pale."
+    ],
+    "notes": "Approximate date (age four or five). Reported by Muslim on the authority of Anas.",
+    "hijri-date": "c. 49 BH (age 4)",
+    "start": "0575-09-01",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Babyhood",
+      "page": 38
+    }
+  },
+  {
+    "id": "returned-to-mother",
+    "title": "Returned to his mother Aminah",
+    "commentary": [
+      "Worried after the opening of his chest, Haleemah brought him back to his mother, with whom he stayed until he was six."
+    ],
+    "notes": "Approximate dates.",
+    "hijri-date": "c. 49 BH (age 4)",
+    "start": "0575-09-30",
+    "end": "0577-02-13",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Back to His Passionate Mother",
+      "page": 39
+    }
+  },
+  {
+    "id": "mother-dies",
+    "title": "His mother Aminah dies at Al-Abwa'",
+    "commentary": [
+      "Aminah travelled about 500 km to Yathrib with her son, Umm Ayman and 'Abdul-Muttalib to visit her late husband's grave, and stayed a month.",
+      "On the way back she fell seriously ill and died at Al-Abwa', between Makkah and Madinah."
+    ],
+    "notes": "Approximate date (age six).",
+    "hijri-date": "c. 47 BH (age 6)",
+    "start": "0577-02-13",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Back to His Passionate Mother",
+      "page": 39
+    }
+  },
+  {
+    "id": "grandfather-care",
+    "title": "In the care of his grandfather 'Abdul-Muttalib",
+    "commentary": [
+      "'Abdul-Muttalib brought the orphaned boy back to Makkah and loved him more than his own children.",
+      "He let him sit on his own mattress in the shade of the Ka'bah, saying the boy would one day hold a great position."
+    ],
+    "notes": "Approximate dates.",
+    "hijri-date": "c. 47 BH (age 6)",
+    "start": "0577-02-14",
+    "end": "0579-04-02",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "To His Compassionate Grandfather",
+      "page": 39
+    }
+  },
+  {
+    "id": "grandfather-dies",
+    "title": "Death of 'Abdul-Muttalib; Abu Talib takes charge",
+    "commentary": [
+      "His grandfather died in Makkah when he was eight years, two months and ten days old.",
+      "His paternal uncle Abu Talib took charge of him, raised him with his own children and protected him for some forty years."
+    ],
+    "notes": "Date calculated from the age the book gives.",
+    "hijri-date": "c. 45 BH (age 8)",
+    "start": "0579-04-02",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "To His Compassionate Grandfather",
+      "page": 39
+    }
+  },
+  {
+    "id": "bahira",
+    "title": "Journey to Syria and the monk Bahira",
+    "commentary": [
+      "At twelve he travelled with Abu Talib on a trading trip to Syria.",
+      "At Busra the monk Bahira recognised him by the seal of Prophethood and told Abu Talib to take him back to Makkah for fear of the Jews; Abu Talib sent him home."
+    ],
+    "notes": "Approximate date (age twelve).",
+    "hijri-date": "c. 41 BH (age 12)",
+    "start": "0582-12-10",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bahira, the Monk",
+      "page": 40
+    }
+  },
+  {
+    "id": "fijar-wars",
+    "title": "The Sacrilegious (Fijar) Wars",
+    "commentary": [
+      "War broke out between Quraish and Kinanah on one side and Qais 'Ailan on the other, fought even in the sacred months.",
+      "He attended one battle with his uncles, only gathering the enemy's arrows and handing them over."
+    ],
+    "notes": "He was about fifteen; the wars lasted several years.",
+    "hijri-date": "c. 38 BH (age 15)",
+    "start": "0585-11-08",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The ‘Sacrilegious’ Wars",
+      "page": 40
+    }
+  },
+  {
+    "id": "hilf-al-fudul",
+    "title": "The Fudul Confederacy (Hilf al-Fudul)",
+    "commentary": [
+      "After the Fijar wars, clans of Quraish met in the house of 'Abdullah bin Jada'an and pledged to defend the wronged and the weak.",
+      "It was prompted by a Zubaidi merchant whom Al-'As bin Wa'il refused to pay. He later said he would still answer such a call in Islam."
+    ],
+    "notes": "Approximate date; the book only says it followed the Fijar wars.",
+    "hijri-date": "c. 37 BH (age 16)",
+    "start": "0586-10-28",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Fudoul Confederacy",
+      "page": 40
+    }
+  },
+  {
+    "id": "trade-for-khadijah",
+    "title": "Trading in Syria for Khadijah",
+    "commentary": [
+      "Having worked as a shepherd in his youth, at twenty-five he took Khadijah's merchandise to Syria, accompanied by her servant Maisarah.",
+      "She chose him for his truthfulness and honesty and offered him a better share than others."
+    ],
+    "notes": "",
+    "hijri-date": "c. 28 BH (age 25)",
+    "start": "0595-07-22",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Muhammad’s Early Job",
+      "page": 41
+    }
+  },
+  {
+    "id": "marriage-khadijah",
+    "title": "Marriage to Khadijah",
+    "commentary": [
+      "Impressed by the profit and by Maisarah's report of his character, Khadijah proposed through her friend Nafisa.",
+      "He was twenty-five and she was forty. The dowry was twenty camels. He married no other woman while she lived.",
+      "She bore all his children except Ibrahim: Al-Qasim, Zainab, Ruqaiyah, Umm Kulthum, Fatimah and 'Abdullah."
+    ],
+    "notes": "",
+    "hijri-date": "c. 28 BH (age 25)",
+    "start": "0595-09-19",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Marriage to Khadijah",
+      "page": 41
+    }
+  },
+  {
+    "id": "kabah-rebuilt",
+    "title": "Rebuilding of the Ka'bah and the Black Stone",
+    "commentary": [
+      "After a flood damaged the Ka'bah, Quraish rebuilt it using only lawful money, leaving out Al-Hijr when funds ran short.",
+      "The clans quarrelled for days over who would place the Black Stone, until they agreed to let the first man to enter decide.",
+      "He was first. He placed the stone on a cloak, had a leader of each clan lift it together, then set it in place with his own hands."
+    ],
+    "notes": "",
+    "hijri-date": "c. 18 BH (age 35)",
+    "start": "0605-04-04",
+    "period": "pre-prophethood",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Rebuilding Al-Ka‘bah and the Arbitration Issue",
+      "page": 41
+    }
+  },
+  {
+    "id": "hira-seclusion",
+    "title": "Retreats in the Cave of Hira'",
+    "commentary": [
+      "As he neared forty he spent long periods in the Cave of Hira' on Mount An-Nour, especially in Ramadan, taking barley porridge and water with him.",
+      "These retreats lasted about three years before the Revelation."
+    ],
+    "notes": "Approximate start date.",
+    "hijri-date": "c. 16 BH (age 37)",
+    "start": "0607-03-14",
+    "end": "0610-08-10",
+    "period": "pre-prophethood",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In the Shade of the Message and Prophethood",
+      "page": 44
+    }
+  },
+  {
+    "id": "first-revelation",
+    "title": "First Revelation in the Cave of Hira'",
+    "commentary": [
+      "Gabriel came to him in the Cave of Hira' with the first verses of Surah Al-'Alaq (\"Read!\").",
+      "He returned home shaken to Khadijah, who comforted him and took him to her cousin Waraqah bin Nawfal."
+    ],
+    "notes": "This chapter is listed in the book's contents but missing from the supplied text file; the date (Monday night, 21 Ramadan, 10 August 610 CE, at forty lunar years and six months) is from the printed edition.",
+    "hijri-date": "21 Ramadan, 13 BH",
+    "start": "0610-08-10",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In the Shade of the Message and Prophethood",
+      "page": 44
+    }
+  },
+  {
+    "id": "secret-call",
+    "title": "Three years of secret call",
+    "commentary": [
+      "Islam was preached privately so as not to alarm Quraish, the guardians of the idols.",
+      "Khadijah, Zaid bin Harithah, 'Ali and Abu Bakr accepted Islam on the first day. Through Abu Bakr came 'Uthman, Az-Zubair, 'Abdur-Rahman bin 'Awf, Sa'd bin Abi Waqqas and Talhah.",
+      "Early prayer was two units in the morning and two in the evening."
+    ],
+    "notes": "",
+    "hijri-date": "13 BH to 10 BH (years 1-3 of Prophethood)",
+    "start": "0610-08-10",
+    "end": "0612-10-31",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Three Years of Secret Call",
+      "page": 49
+    }
+  },
+  {
+    "id": "revelation-pause",
+    "title": "Pause in Revelation",
+    "commentary": [
+      "Revelation paused for a few days, and he was deeply distressed.",
+      "The book rejects the claim that the pause lasted three and a half years."
+    ],
+    "notes": "Approximate dates (\"a few days\").",
+    "hijri-date": "Ramadan, 13 BH",
+    "start": "0610-08-11",
+    "end": "0610-08-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Interruption of Revelation",
+      "page": 44
+    }
+  },
+  {
+    "id": "al-muddaththir",
+    "title": "Revelation resumes: \"Arise and warn\"",
+    "commentary": [
+      "He saw the angel of Hira' seated between earth and sky, went home asking to be covered, and the opening verses of Surah Al-Muddaththir were revealed.",
+      "After that, revelation came strongly and regularly."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Ramadan, 13 BH",
+    "start": "0610-08-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Once more, Gabriel brings All? ’s Revelation",
+      "page": 45
+    }
+  },
+  {
+    "id": "open-preaching",
+    "title": "Open preaching begins",
+    "commentary": [
+      "Allah commanded him to warn his nearest kin (Ash-Shu'ara' 26:214). He gathered about forty-five men of Banu Hashim and Banu Al-Muttalib, and Abu Lahab opposed him.",
+      "He then climbed Mount As-Safa and called the clans of Quraish to the Oneness of Allah."
+    ],
+    "notes": "Start of the fourth year of Prophethood.",
+    "hijri-date": "Muharram 10 BH (year 4 of Prophethood)",
+    "start": "0612-11-01",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "First Revelation regarding the Preaching",
+      "page": 52
+    }
+  },
+  {
+    "id": "first-bloodshed",
+    "title": "First blood shed in Islam",
+    "commentary": [
+      "Polytheists attacked Muslims on their way to a secret meeting in the hills of Makkah, and Sa'd bin Abi Waqqas wounded one of them."
+    ],
+    "notes": "",
+    "hijri-date": "10 BH (year 4 of Prophethood)",
+    "start": "0612-11-01",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 62
+    }
+  },
+  {
+    "id": "persecution",
+    "title": "Organised persecution begins",
+    "commentary": [
+      "A committee of twenty-five notables led by Abu Lahab organised the opposition.",
+      "The weaker Muslims, such as Bilal, 'Ammar and his parents, were tortured."
+    ],
+    "notes": "Late in the fourth year of Prophethood.",
+    "hijri-date": "Shawwal 10 BH (year 4 of Prophethood)",
+    "start": "0613-07-25",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 59
+    }
+  },
+  {
+    "id": "pilgrim-council",
+    "title": "Quraish agree to call him a sorcerer",
+    "commentary": [
+      "Before the pilgrimage season, Quraish met at Al-Waleed bin Al-Mugheerah's house to agree on one label for him.",
+      "After rejecting soothsayer, madman and poet, they settled on calling him a sorcerer who divides families."
+    ],
+    "notes": "A few months after the open call began.",
+    "hijri-date": "Dhul-Hijjah 10 BH (year 4 of Prophethood)",
+    "start": "0613-09-22",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Advisory Council to debar Pilgrims from Muhammad’s Call",
+      "page": 55
+    }
+  },
+  {
+    "id": "dar-al-arqam",
+    "title": "Dar Al-Arqam becomes the meeting place",
+    "commentary": [
+      "He made the house of Al-Arqam on As-Safa a private centre for meeting his followers and teaching them the Qur'an."
+    ],
+    "notes": "",
+    "hijri-date": "9 BH (year 5 of Prophethood)",
+    "start": "0613-10-22",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Persecutions",
+      "page": 63
+    }
+  },
+  {
+    "id": "abyssinia-1",
+    "title": "First migration to Abyssinia",
+    "commentary": [
+      "Twelve men and four women, including 'Uthman bin 'Affan and the Prophet's daughter Ruqaiyah, slipped out of Makkah by night and sailed from Shu'aibah.",
+      "Quraish pursued them but they had already left, and they were welcomed in Abyssinia."
+    ],
+    "notes": "",
+    "hijri-date": "Rajab 9 BH (year 5 of Prophethood)",
+    "start": "0614-04-17",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 64
+    }
+  },
+  {
+    "id": "surah-najm",
+    "title": "Recitation of Surah An-Najm at the Ka'bah",
+    "commentary": [
+      "He recited Surah An-Najm to a gathering of Quraish at the Sanctuary. When he prostrated at its end, they all prostrated with him, overwhelmed."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 9 BH (year 5 of Prophethood)",
+    "start": "0614-06-15",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 64
+    }
+  },
+  {
+    "id": "abyssinia-return",
+    "title": "Emigrants return from Abyssinia",
+    "commentary": [
+      "Hearing a false report that Quraish had become Muslim, the emigrants came back. Near Makkah they learned the truth: some went back to Abyssinia and some entered under a notable's protection."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 9 BH (year 5 of Prophethood)",
+    "start": "0614-07-15",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 65
+    }
+  },
+  {
+    "id": "abyssinia-2",
+    "title": "Second migration to Abyssinia",
+    "commentary": [
+      "As torture grew worse, a larger group left: eighty-three men and eighteen or nineteen women."
+    ],
+    "notes": "Approximate date; the book only says it followed the return of the first group.",
+    "hijri-date": "Dhul-Qa'dah 9 BH (year 5 of Prophethood)",
+    "start": "0614-08-13",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First Migration to Abyssinia (Ethiopia)",
+      "page": 65
+    }
+  },
+  {
+    "id": "negus-court",
+    "title": "Quraish envoys at the court of the Negus",
+    "commentary": [
+      "Quraish sent 'Amr bin Al-'As and 'Abdullah bin Abi Rabi'a with gifts to have the Muslims handed back.",
+      "Ja'far bin Abi Talib explained Islam and recited from Surah Maryam. The Negus refused to give them up and guaranteed their safety."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "8 BH (year 6 of Prophethood)",
+    "start": "0614-10-11",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Machination against the Emigrants",
+      "page": 65
+    }
+  },
+  {
+    "id": "quraish-abu-talib",
+    "title": "Quraish pressure Abu Talib",
+    "commentary": [
+      "Quraish twice asked Abu Talib to stop his nephew or give him up, even offering a young man in exchange. Abu Talib refused."
+    ],
+    "notes": "The book places these meetings in the sixth year, a short time apart.",
+    "hijri-date": "8 BH (year 6 of Prophethood)",
+    "start": "0614-10-11",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Once more Quraish approaches Abu Talib",
+      "page": 67
+    }
+  },
+  {
+    "id": "hamzah-islam",
+    "title": "Hamzah bin 'Abdul-Muttalib accepts Islam",
+    "commentary": [
+      "Angered that Abu Jahl had abused his nephew at As-Safa, Hamzah struck him with his bow and declared his Islam."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 8 BH (year 6 of Prophethood)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conversion of Hamzah bin ‘Abdul-Muttalib",
+      "page": 68
+    }
+  },
+  {
+    "id": "umar-islam",
+    "title": "'Umar bin Al-Khattab accepts Islam",
+    "commentary": [
+      "Three days after Hamzah, 'Umar, until then a fierce opponent, accepted Islam, which greatly strengthened the Muslims."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 8 BH (year 6 of Prophethood)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conversion of ‘Umar bin Al-Khattab",
+      "page": 69
+    }
+  },
+  {
+    "id": "utbah-offer",
+    "title": "'Utbah bin Rabi'a's offer",
+    "commentary": [
+      "Quraish sent 'Utbah to offer wealth, leadership or kingship if he gave up his call. He answered by reciting the opening of Surah Fussilat, and 'Utbah went back deeply affected."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Dhul-Hijjah 8 BH (year 6 of Prophethood)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Representative negotiates with the Messenger of All? [pbuh]",
+      "page": 72
+    }
+  },
+  {
+    "id": "hashim-pact",
+    "title": "Banu Hashim and Banu Al-Muttalib pledge protection",
+    "commentary": [
+      "Abu Talib gathered Banu Hashim and Banu Al-Muttalib, Muslims and non-Muslims, to protect the Prophet. Only Abu Lahab refused and sided with Quraish."
+    ],
+    "notes": "The book says Hamzah's and 'Umar's conversions, this pact and the rejected compromise all happened within four weeks.",
+    "hijri-date": "Dhul-Hijjah 8 BH (year 6 of Prophethood)",
+    "start": "0615-09-01",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Quraish’s Representative negotiates with the Messenger of All? [pbuh]",
+      "page": 73
+    }
+  },
+  {
+    "id": "boycott",
+    "title": "The boycott in Shi'b Abi Talib",
+    "commentary": [
+      "Quraish signed a pact, hung inside the Ka'bah, to boycott Banu Hashim and Banu Al-Muttalib in marriage, trade and contact.",
+      "They were confined in Abu Talib's valley for three years, eating leaves and skins, while a few sympathetic Makkans smuggled in food."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram 7 BH - Muharram 4 BH (from year 7 of Prophethood)",
+    "start": "0615-09-30",
+    "end": "0618-09-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Pact of Injustice and Aggression",
+      "page": 75
+    }
+  },
+  {
+    "id": "boycott-ends",
+    "title": "The boycott ends",
+    "commentary": [
+      "Five Makkans, led by Hisham bin 'Amr and Zuhair bin Abi Umaiyah, campaigned to annul the pact, which was then torn up."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram 4 BH (year 10 of Prophethood)",
+    "start": "0618-08-29",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Pact of Injustice and Aggression",
+      "page": 76
+    }
+  },
+  {
+    "id": "abu-talib-dies",
+    "title": "Death of Abu Talib",
+    "commentary": [
+      "Six months after leaving the valley, Abu Talib fell ill and died. On his deathbed the Prophet urged him to declare that there is no god but Allah."
+    ],
+    "notes": "Another report says Ramadan, three days before Khadijah.",
+    "hijri-date": "Rajab 4 BH (year 10 of Prophethood)",
+    "start": "0619-02-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abu Talib’s Death",
+      "page": 79
+    }
+  },
+  {
+    "id": "khadijah-dies",
+    "title": "Death of Khadijah",
+    "commentary": [
+      "About two months after Abu Talib, Khadijah died at sixty-five; he was fifty. She had shared his trials for twenty-five years.",
+      "The Prophet called it the Year of Grief."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 4 BH (year 10 of Prophethood)",
+    "start": "0619-04-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Khadijah passes away to the Mercy of Allâh",
+      "page": 80
+    }
+  },
+  {
+    "id": "marriage-sawdah",
+    "title": "Marriage to Sawdah bint Zam'a",
+    "commentary": [
+      "An early Muslim who had emigrated to Abyssinia, Sawdah was widowed when her husband As-Sakran died on the way back. She was the first woman he married after Khadijah."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 4 BH (year 10 of Prophethood)",
+    "start": "0619-05-22",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "His Marriage to Sawdah [R] in Shawwal, the tenth year of Prophethood",
+      "page": 81
+    }
+  },
+  {
+    "id": "jinn-nakhlah",
+    "title": "The jinn listen to the Qur'an at Nakhlah",
+    "commentary": [
+      "On the way back from At-Ta'if, a group of jinn heard him reciting at Nakhlah and believed, as described in Al-Ahqaf 46:29-31 and Surah Al-Jinn."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Shawwal 4 BH (year 10 of Prophethood)",
+    "start": "0619-05-22",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Third Phase: Calling unto Islam beyond Makkah",
+      "page": 83
+    }
+  },
+  {
+    "id": "taif",
+    "title": "Journey to At-Ta'if",
+    "commentary": [
+      "With Zaid bin Harithah he walked about 60 km to At-Ta'if to call Thaqif to Islam.",
+      "Its chiefs rejected him and set slaves and children to stone him until his feet bled.",
+      "In the garden of 'Utbah and Shaibah, sons of Rabi'a, he made his well-known supplication, and their slave 'Addas accepted Islam."
+    ],
+    "notes": "The book dates it to late May or early June 619 CE.",
+    "hijri-date": "Shawwal 4 BH (year 10 of Prophethood)",
+    "start": "0619-05-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Third Phase: Calling unto Islam beyond Makkah",
+      "page": 82
+    }
+  },
+  {
+    "id": "tribes-call",
+    "title": "Calling the tribes at the pilgrimage season",
+    "commentary": [
+      "He returned to presenting Islam to the visiting tribes and individuals at the fairs and in the pilgrimage season, as he had done since the fourth year."
+    ],
+    "notes": "The book dates this to July 619 CE.",
+    "hijri-date": "Dhul-Qa'dah 4 BH (year 10 of Prophethood)",
+    "start": "0619-07-01",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Islam being introduced to Arabian Tribes and Individuals",
+      "page": 85
+    }
+  },
+  {
+    "id": "early-yathrib-converts",
+    "title": "Suwaid, Iyas, Abu Dharr, At-Tufail and Dimad accept Islam",
+    "commentary": [
+      "Individuals from outside Makkah accepted Islam: Suwaid bin Samit and the youth Iyas bin Mu'adh of Yathrib, Abu Dharr Al-Ghifari, At-Tufail bin 'Amr Ad-Dausi and Dimad Al-Azdi."
+    ],
+    "notes": "",
+    "hijri-date": "3 BH (year 11 of Prophethood)",
+    "start": "0619-08-18",
+    "period": "makkah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Islam being introduced to Arabian Tribes and Individuals",
+      "page": 86
+    }
+  },
+  {
+    "id": "aishah-contract",
+    "title": "Marriage contract with 'Aishah",
+    "commentary": [
+      "He concluded a marriage contract with 'Aishah, daughter of Abu Bakr. The marriage was consummated in Madinah in Shawwal of 1 AH."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 3 BH (year 11 of Prophethood)",
+    "start": "0620-05-10",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 88
+    }
+  },
+  {
+    "id": "six-yathrib",
+    "title": "Six men from Yathrib accept Islam at 'Aqabah",
+    "commentary": [
+      "At 'Aqabah in Mina he met six men from Yathrib, including As'ad bin Zurarah. Having heard the Jews speak of a coming Prophet, they accepted Islam and took the message home."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 3 BH (year 11 of Prophethood)",
+    "start": "0620-07-08",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hope inspiring Breezes from the Madinese",
+      "page": 87
+    }
+  },
+  {
+    "id": "aqabah-1",
+    "title": "First Pledge of 'Aqabah",
+    "commentary": [
+      "Twelve men from Yathrib, five of them from the previous year's six, pledged at 'Aqabah to worship Allah alone and to avoid theft, adultery, infanticide and slander."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 2 BH (year 12 of Prophethood)",
+    "start": "0621-06-27",
+    "period": "makkah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The First ‘Aqabah Pledge",
+      "page": 93
+    }
+  },
+  {
+    "id": "musab-envoy",
+    "title": "Mus'ab bin 'Umair sent to Yathrib",
+    "commentary": [
+      "Mus'ab bin 'Umair went to Yathrib as the first Muslim envoy, staying with As'ad bin Zurarah. Sa'd bin Mu'adh and Usaid bin Hudair accepted Islam, and almost every household heard the call.",
+      "He returned to Makkah before the next pilgrimage with good news."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 2 BH - Dhul-Qa'dah 1 BH (from year 12 of Prophethood)",
+    "start": "0621-06-27",
+    "end": "0622-06-16",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Muslim Envoy in Madinah",
+      "page": 93
+    }
+  },
+  {
+    "id": "isra-miraj",
+    "title": "Al-Isra' and Al-Mi'raj (Night Journey and Ascension)",
+    "commentary": [
+      "He was carried on Al-Buraq with Gabriel from the Sacred Mosque in Makkah to Al-Aqsa in Jerusalem, where he led the Prophets in prayer.",
+      "He then ascended through the heavens, met earlier Prophets, and received the command of the five daily prayers."
+    ],
+    "notes": "The exact date is disputed; most scholars place it 12 to 16 months before the Hijrah.",
+    "hijri-date": "Muharram 1 BH (year 13 of Prophethood)",
+    "start": "0621-07-27",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 89
+    }
+  },
+  {
+    "id": "aqabah-2",
+    "title": "Second Pledge of 'Aqabah",
+    "commentary": [
+      "More than seventy men and two women from Yathrib met him secretly at night at 'Aqabah during the days of Tashreeq.",
+      "They pledged to obey him, spend in the cause of Allah and protect him as they protected their own families. Twelve leaders (naqibs) were appointed."
+    ],
+    "notes": "The book gives June 622 CE and \"mid Tashreeq days\" (11-13 Dhul-Hijjah); the day is calculated.",
+    "hijri-date": "12 Dhul-Hijjah 1 BH (year 13 of Prophethood)",
+    "start": "0622-06-28",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Second ‘Aqabah Pledge",
+      "page": 95
+    }
+  },
+  {
+    "id": "emigration-begins",
+    "title": "Muslims begin emigrating to Madinah",
+    "commentary": [
+      "After the pledge he allowed the Muslims to emigrate. Many had to leave their wealth behind or were held back by force.",
+      "Abu Salamah was separated from his wife and son, Suhaib gave up his wealth to leave, and 'Umar left openly."
+    ],
+    "notes": "Approximate dates.",
+    "hijri-date": "Dhul-Hijjah 1 BH - Safar 1 AH",
+    "start": "0622-07-01",
+    "end": "0622-09-08",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Vanguard of Migration",
+      "page": 99
+    }
+  },
+  {
+    "id": "dar-an-nadwah",
+    "title": "Quraish plot to kill him at Dar An-Nadwah",
+    "commentary": [
+      "Quraish's leaders met in their council house and adopted Abu Jahl's plan: a young man from every clan would strike him together, so the blood-money would be shared by all clans."
+    ],
+    "notes": "The book prints 12 September 622 CE, which is in the proleptic Gregorian calendar; converted here to the Julian calendar used throughout this file.",
+    "hijri-date": "Thursday 26 Safar 1 AH (year 14 of Prophethood)",
+    "start": "0622-09-09",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "In An-Nadwah (Council) House",
+      "page": 101
+    }
+  },
+  {
+    "id": "hijrah-departure",
+    "title": "The Hijrah: he leaves his house",
+    "commentary": [
+      "Told of the plot, he left 'Ali sleeping in his bed and walked out past the men waiting at his door.",
+      "With Abu Bakr he went south toward Yemen instead of north, to Mount Thawr."
+    ],
+    "notes": "The book prints 12/13 September 622 CE, which is in the proleptic Gregorian calendar; converted here to the Julian calendar used throughout this file.",
+    "hijri-date": "27 Safar 1 AH (year 14 of Prophethood)",
+    "start": "0622-09-10",
+    "period": "makkah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 104
+    }
+  },
+  {
+    "id": "cave-thawr",
+    "title": "Three nights in the Cave of Thawr",
+    "commentary": [
+      "They hid in the cave on Friday, Saturday and Sunday nights. 'Abdullah bin Abi Bakr brought them news, and 'Amir bin Fuhairah grazed sheep nearby to cover the tracks and give them milk.",
+      "Quraish's searchers reached the cave entrance but did not look in."
+    ],
+    "notes": "",
+    "hijri-date": "27-30 Safar 1 AH",
+    "start": "0622-09-10",
+    "end": "0622-09-13",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 104
+    }
+  },
+  {
+    "id": "journey-to-madinah",
+    "title": "Journey along the coastal route",
+    "commentary": [
+      "Guided by 'Abdullah bin Uraiqit, they took little-used coastal roads. On the way, Suraqah bin Malik chased them and his horse sank into the ground, and Umm Ma'bad's dry goat gave milk.",
+      "Asma' bint Abi Bakr tore her waistband in two to tie the provisions, earning the name \"she of the two waistbands\"."
+    ],
+    "notes": "",
+    "hijri-date": "1-8 Rabi' al-Awwal 1 AH",
+    "start": "0622-09-13",
+    "end": "0622-09-20",
+    "period": "makkah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 105
+    }
+  },
+  {
+    "id": "arrival-quba",
+    "title": "Arrival at Quba' and the Quba' Mosque",
+    "commentary": [
+      "He reached Quba' and stayed four days with Kulthum bin Al-Hadm of Banu 'Amr bin 'Awf, laying the foundation of the Quba' Mosque.",
+      "'Ali stayed in Makkah three days to return what people had left with the Prophet for safekeeping, then joined him."
+    ],
+    "notes": "The book prints 23 September 622 CE, which is in the proleptic Gregorian calendar; converted here to the Julian calendar used throughout this file.",
+    "hijri-date": "Monday 8 Rabi' al-Awwal 1 AH",
+    "start": "0622-09-20",
+    "end": "0622-09-23",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Migration of the Prophet [pbuh]",
+      "page": 107
+    }
+  },
+  {
+    "id": "arrival-madinah",
+    "title": "Entry into Madinah and the first Friday prayer",
+    "commentary": [
+      "He prayed the first Friday prayer with about a hundred people in the valley of Banu Salim, then rode into the city amid crowds of welcomers.",
+      "He let his camel choose where to stop; it knelt in the quarter of Banu An-Najjar, and he stayed with Abu Ayyub Al-Ansari."
+    ],
+    "notes": "The book prints 27 September 622 CE, which is in the proleptic Gregorian calendar; converted here to the Julian calendar used throughout this file.",
+    "hijri-date": "Friday 12 Rabi' al-Awwal 1 AH",
+    "start": "0622-09-24",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "masjid-nabawi",
+    "title": "Building the Prophet's Mosque",
+    "commentary": [
+      "His first task was to build the mosque where his camel had knelt. He carried bricks and stones himself, and his wives' rooms were built beside it.",
+      "The call to prayer (Adhan) was introduced at this early stage."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal 1 AH onwards",
+    "start": "0622-09-25",
+    "end": "0622-12-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "brotherhood",
+    "title": "Brotherhood between Emigrants and Helpers",
+    "commentary": [
+      "He paired ninety men, half Emigrants and half Helpers, as brothers with real duties of mutual support. Sa'd bin Ar-Rabi' offered half his wealth to 'Abdur-Rahman bin 'Awf."
+    ],
+    "notes": "",
+    "hijri-date": "1 AH, after the Mosque was built",
+    "start": "0622-10-13",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A New Society being built",
+      "page": 118
+    }
+  },
+  {
+    "id": "madinah-charter",
+    "title": "The Charter of Madinah and the pact with the Jews",
+    "commentary": [
+      "He set out a charter binding the Muslims together and a pact of cooperation and non-aggression with the Jews of Madinah, giving each their own religion and requiring mutual defence of the city."
+    ],
+    "notes": "",
+    "hijri-date": "1 AH",
+    "start": "0622-11-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "A Charter of Islamic Alliance",
+      "page": 119
+    }
+  },
+  {
+    "id": "saif-al-bahr",
+    "title": "Expedition of Saif Al-Bahr (Hamzah)",
+    "commentary": [
+      "Hamzah led thirty Emigrants to intercept a Quraish caravan of 300 men including Abu Jahl. Majdi bin 'Amr stepped in and fighting was avoided.",
+      "This was the first banner carried in Islam."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 1 AH",
+    "start": "0623-03-09",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "aishah-marriage",
+    "title": "'Aishah joins his household",
+    "commentary": [
+      "His marriage to 'Aishah, contracted in Makkah, was consummated in Madinah seven months after the Hijrah."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 1 AH",
+    "start": "0623-04-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Marriage of the Prophet [pbuh] to ‘Aishah [R]",
+      "page": 88
+    }
+  },
+  {
+    "id": "rabigh",
+    "title": "Expedition to Batn Rabigh ('Ubaidah)",
+    "commentary": [
+      "'Ubaidah bin Al-Harith led sixty horsemen against Abu Sufyan's 200 men. Arrows were exchanged but there was no battle, and two Muslims in the caravan crossed over to 'Ubaidah."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 1 AH",
+    "start": "0623-04-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "kharrar",
+    "title": "Expedition to Al-Kharrar (Sa'd)",
+    "commentary": [
+      "Sa'd bin Abi Waqqas led twenty men to Al-Kharrar, but the caravan had passed the day before."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 1 AH",
+    "start": "0623-05-07",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "waddan",
+    "title": "Ghazwah of Al-Abwa' (Waddan)",
+    "commentary": [
+      "His first expedition in person: seventy men set out to intercept a caravan. They found none, but he made a non-aggression pact with Banu Damrah. It lasted fifteen days."
+    ],
+    "notes": "",
+    "hijri-date": "Safar 2 AH",
+    "start": "0623-08-04",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 127
+    }
+  },
+  {
+    "id": "buwat",
+    "title": "Ghazwah of Buwat",
+    "commentary": [
+      "He led 200 men toward a caravan of Umaiyah bin Khalaf with 2,500 camels, but it had passed."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal 2 AH",
+    "start": "0623-09-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "safwan",
+    "title": "Ghazwah of Safwan (first Badr)",
+    "commentary": [
+      "Karz bin Jabir raided Madinah's pastures. He chased him with seventy men as far as Safwan near Badr without catching him."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal 2 AH",
+    "start": "0623-09-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "dhul-ushairah",
+    "title": "Ghazwah of Dhul 'Ushairah",
+    "commentary": [
+      "With 150-200 men he set out after a caravan heading to Syria and missed it. It was the same caravan whose return led to Badr. He made pacts with Banu Mudlij and Banu Damrah."
+    ],
+    "notes": "",
+    "hijri-date": "Jumada al-Ula - Jumada al-Akhirah 2 AH",
+    "start": "0623-10-31",
+    "end": "0623-12-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "nakhlah",
+    "title": "Expedition to Nakhlah ('Abdullah bin Jahsh)",
+    "commentary": [
+      "Twelve Emigrants went to gather news of Quraish and attacked a caravan at the end of the sacred month of Rajab, killing one man and taking two captives.",
+      "The fighting in a sacred month caused an outcry, answered by Al-Baqarah 2:217."
+    ],
+    "notes": "",
+    "hijri-date": "Rajab 2 AH",
+    "start": "0623-12-29",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 128
+    }
+  },
+  {
+    "id": "fighting-permitted",
+    "title": "Fighting is made obligatory",
+    "commentary": [
+      "Verses ordering the Muslims to fight those who fight them, without transgressing, were revealed."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 2 AH",
+    "start": "0624-01-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 129
+    }
+  },
+  {
+    "id": "qiblah-change",
+    "title": "The Qiblah changed to the Ka'bah",
+    "commentary": [
+      "The direction of prayer was changed from Jerusalem to the Sacred Mosque in Makkah. This exposed hypocrites and wavering Jews."
+    ],
+    "notes": "The book gives February 624 CE.",
+    "hijri-date": "Sha'ban 2 AH",
+    "start": "0624-01-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Badr Missions and Invasions",
+      "page": 130
+    }
+  },
+  {
+    "id": "ruqaiyah-dies",
+    "title": "Death of Ruqaiyah, his daughter",
+    "commentary": [
+      "News of Badr reached Madinah just after Ruqaiyah, wife of 'Uthman, was buried; 'Uthman had stayed behind to nurse her."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 2 AH",
+    "start": "0624-02-26",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Madinah receives the News of Victory",
+      "page": 143
+    }
+  },
+  {
+    "id": "fasting-zakat",
+    "title": "Fasting of Ramadan and Zakat made obligatory",
+    "commentary": [
+      "Fasting in Ramadan and the giving of Zakat were made obligatory in 2 AH."
+    ],
+    "notes": "",
+    "hijri-date": "2 AH",
+    "start": "0624-02-26",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Badr in its Qur’ânic Context",
+      "page": 146
+    }
+  },
+  {
+    "id": "badr",
+    "title": "The Battle of Badr",
+    "commentary": [
+      "Setting out after Abu Sufyan's caravan, 300-317 Muslims with two horses and seventy camels met an army of about 1,000 from Makkah.",
+      "The Muslims won decisively: fourteen were martyred, while seventy polytheists, including Abu Jahl, were killed and seventy captured."
+    ],
+    "notes": "The battle was on Friday 17 Ramadan.",
+    "hijri-date": "Friday 17 Ramadan 2 AH",
+    "start": "0624-03-16",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Reason of the Battle",
+      "page": 136
+    }
+  },
+  {
+    "id": "first-eid",
+    "title": "The first 'Eid al-Fitr",
+    "commentary": [
+      "The first 'Eid of breaking the fast was celebrated soon after the victory at Badr."
+    ],
+    "notes": "",
+    "hijri-date": "1 Shawwal 2 AH",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Badr in its Qur’ânic Context",
+      "page": 146
+    }
+  },
+  {
+    "id": "al-kudr",
+    "title": "Ghazwah of Al-Kudr",
+    "commentary": [
+      "He made a surprise raid on Banu Saleem at Al-Kudr seven days after Badr. They had fled, and 500 camels were taken."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 2 AH",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Kudr Invasion",
+      "page": 147
+    }
+  },
+  {
+    "id": "umair-plot",
+    "title": "Plot by 'Umair bin Wahb to kill him",
+    "commentary": [
+      "'Umair bin Wahb came to Madinah, urged on by Safwan bin Umaiyah, with a poisoned sword to kill him. The Prophet told him the details of his secret plot, and 'Umair accepted Islam."
+    ],
+    "notes": "Approximate date; soon after Badr.",
+    "hijri-date": "Shawwal 2 AH",
+    "start": "0624-03-27",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Attempt on the Life of the Prophet [pbuh]",
+      "page": 148
+    }
+  },
+  {
+    "id": "qainuqa",
+    "title": "Siege of Banu Qainuqa'",
+    "commentary": [
+      "Banu Qainuqa', the first Jewish tribe to break the pact, insulted a Muslim woman, which led to killings on both sides.",
+      "After a fifteen-day siege they surrendered and were expelled to Azru'a in Syria."
+    ],
+    "notes": "",
+    "hijri-date": "Saturday 15 Shawwal 2 AH, siege of 15 days",
+    "start": "0624-04-07",
+    "end": "0624-04-22",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Qainuqa‘ Jews breach the Covenant",
+      "page": 150
+    }
+  },
+  {
+    "id": "sawiq",
+    "title": "Ghazwah of As-Sawiq",
+    "commentary": [
+      "Abu Sufyan raided the outskirts of Madinah. When pursued, his men threw away their bags of barley meal (sawiq) to flee faster."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Hijjah 2 AH",
+    "start": "0624-05-25",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "As-Sawiq Invasion",
+      "page": 151
+    }
+  },
+  {
+    "id": "fatimah-ali",
+    "title": "Marriage of Fatimah and 'Ali",
+    "commentary": [
+      "His daughter Fatimah married 'Ali bin Abi Talib between the battles of Badr and Uhud."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Dhul-Hijjah 2 AH",
+    "start": "0624-05-25",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "dhi-amr",
+    "title": "Ghazwah of Dhi Amr",
+    "commentary": [
+      "He led 450 men against Banu Tha'labah and Banu Muharib, who scattered into the mountains. The Muslims camped at Dhi Amr for all of Safar."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram - Safar 3 AH",
+    "start": "0624-06-24",
+    "end": "0624-08-21",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "As-Sawiq Invasion",
+      "page": 151
+    }
+  },
+  {
+    "id": "marriage-hafsah",
+    "title": "Marriage to Hafsah bint 'Umar",
+    "commentary": [
+      "Hafsah, widowed when Khunais bin Hudhafa died, married the Prophet in 3 AH."
+    ],
+    "notes": "",
+    "hijri-date": "3 AH",
+    "start": "0624-06-24",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "kab-al-ashraf",
+    "title": "Killing of Ka'b bin Al-Ashraf",
+    "commentary": [
+      "Ka'b bin Al-Ashraf, a Jewish poet who incited Quraish and insulted Muslim women in his verses, was killed at night by Muhammad bin Maslamah and his companions."
+    ],
+    "notes": "",
+    "hijri-date": "14 Rabi' al-Awwal 3 AH",
+    "start": "0624-09-04",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Ka‘b bin Al-Ashraf, killed",
+      "page": 152
+    }
+  },
+  {
+    "id": "buhran",
+    "title": "Ghazwah of Buhran",
+    "commentary": [
+      "He patrolled to Buhran in Al-Furu' with 300 men. There was no fighting."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Thani - Jumada al-Ula 3 AH",
+    "start": "0624-09-21",
+    "end": "0624-11-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Buhran",
+      "page": 153
+    }
+  },
+  {
+    "id": "qaradah",
+    "title": "Zaid bin Harithah seizes a Quraish caravan",
+    "commentary": [
+      "Zaid captured a large Quraish caravan using the Iraq route, the most successful campaign before Uhud."
+    ],
+    "notes": "",
+    "hijri-date": "Jumada al-Akhirah 3 AH",
+    "start": "0624-11-19",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Zaid bin Harithah leads a Campaign on the Trade Routes of Quraish",
+      "page": 153
+    }
+  },
+  {
+    "id": "uhud",
+    "title": "The Battle of Uhud",
+    "commentary": [
+      "Quraish marched with 3,000 men. Of 1,000 Muslims, 'Abdullah bin Ubai withdrew with 300.",
+      "Early success turned into a reverse when most of the archers left their post. Khalid bin Al-Waleed's cavalry attacked from behind, and the Prophet was wounded.",
+      "Seventy Muslims were martyred, among them Hamzah. Twenty-two (some say thirty-seven) polytheists were killed."
+    ],
+    "notes": "",
+    "hijri-date": "Saturday 7 Shawwal 3 AH",
+    "start": "0625-03-23",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Defence Plan",
+      "page": 161
+    }
+  },
+  {
+    "id": "hamra-al-asad",
+    "title": "Ghazwah of Hamra' Al-Asad",
+    "commentary": [
+      "The day after Uhud he marched out, with only those who had fought, to pursue Quraish. He camped at Hamra' Al-Asad for three days (Monday to Wednesday), which dissuaded Abu Sufyan from returning to attack."
+    ],
+    "notes": "",
+    "hijri-date": "9-11 Shawwal 3 AH",
+    "start": "0625-03-25",
+    "end": "0625-03-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hamrâ’ Al-Asad Invasion",
+      "page": 181
+    }
+  },
+  {
+    "id": "abu-salamah-mission",
+    "title": "Expedition of Abu Salamah to Banu Asad",
+    "commentary": [
+      "Abu Salamah led 150 men and surprised Banu Asad, who were gathering to attack. His Uhud wound reopened and he died soon afterwards."
+    ],
+    "notes": "",
+    "hijri-date": "1 Muharram 4 AH",
+    "start": "0625-06-13",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abi Salamah Mission",
+      "page": 186
+    }
+  },
+  {
+    "id": "marriage-zainab-khuzaimah",
+    "title": "Marriage to Zainab bint Khuzaimah",
+    "commentary": [
+      "Zainab, called \"Mother of the Poor\" for her care of the needy, widow of 'Abdullah bin Jahsh, married him in 4 AH and died two or three months later."
+    ],
+    "notes": "",
+    "hijri-date": "4 AH",
+    "start": "0625-06-13",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "abdullah-bin-unais",
+    "title": "Errand of 'Abdullah bin Unais",
+    "commentary": [
+      "'Abdullah bin Unais was sent to deal with Khalid bin Sufyan Al-Hudhali, who was gathering men to raid the Muslims. He returned after eighteen days with Khalid's head."
+    ],
+    "notes": "",
+    "hijri-date": "5 Muharram 4 AH",
+    "start": "0625-06-17",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "An Errand led by ‘Abdullah bin Unais",
+      "page": 186
+    }
+  },
+  {
+    "id": "ar-raji",
+    "title": "The tragedy of Ar-Raji'",
+    "commentary": [
+      "Teachers sent at the request of 'Udal and Qarah were betrayed at Ar-Raji'. Most were killed, and Khubaib and Zaid bin Ad-Dathinah were sold in Makkah and executed."
+    ],
+    "notes": "",
+    "hijri-date": "Safar 4 AH",
+    "start": "0625-07-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Event of Ar-Raji‘",
+      "page": 187
+    }
+  },
+  {
+    "id": "bir-maunah",
+    "title": "The tragedy of Bi'r Ma'unah",
+    "commentary": [
+      "Seventy reciters (forty in another report) sent to Najd at Abu Bara's request were massacred at Ma'unah Well by the Sulaim clans of Ri'l, Dhakwan and 'Usaiyah. The Prophet invoked Allah against the killers for a month."
+    ],
+    "notes": "",
+    "hijri-date": "Safar 4 AH",
+    "start": "0625-07-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Tragedy of Ma‘una Well",
+      "page": 188
+    }
+  },
+  {
+    "id": "banu-nadir",
+    "title": "Expulsion of Banu An-Nadir",
+    "commentary": [
+      "Banu An-Nadir plotted to drop a millstone on him while he sat by one of their walls. After a siege they agreed to leave, taking 600 camel-loads, and most went to Khaibar.",
+      "Most of Surah Al-Hashr was revealed about this."
+    ],
+    "notes": "The book gives August 625 CE.",
+    "hijri-date": "Rabi' al-Awwal 4 AH",
+    "start": "0625-08-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani An-Nadeer Invasion",
+      "page": 191
+    }
+  },
+  {
+    "id": "badr-2",
+    "title": "The second Badr (Badr Al-Maw'id)",
+    "commentary": [
+      "He went to Badr with 1,500 men for the meeting Abu Sufyan had promised at Uhud. Quraish turned back, and the Muslims traded at the market there."
+    ],
+    "notes": "The book gives January 626 CE.",
+    "hijri-date": "Sha'ban 4 AH",
+    "start": "0626-01-06",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Badr, the Second",
+      "page": 192
+    }
+  },
+  {
+    "id": "marriage-umm-salamah",
+    "title": "Marriage to Umm Salamah",
+    "commentary": [
+      "After Abu Salamah died in Jumada al-Akhirah 4 AH, he married his widow Umm Salamah, of Banu Makhzum, in Shawwal."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal 4 AH",
+    "start": "0626-03-06",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 311
+    }
+  },
+  {
+    "id": "dumat-al-jandal",
+    "title": "Ghazwah of Dumat Al-Jandal",
+    "commentary": [
+      "He led 1,000 men to the Syrian border against tribes robbing travellers and preparing to raid Madinah. They fled, and he returned after making treaties in the area."
+    ],
+    "notes": "Late Rabi' al-Awwal 5 AH.",
+    "hijri-date": "25 Rabi' al-Awwal 5 AH",
+    "start": "0626-08-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Invasion of Doumat Al-Jandal",
+      "page": 193
+    }
+  },
+  {
+    "id": "trench",
+    "title": "Battle of the Trench (Al-Ahzab)",
+    "commentary": [
+      "Jewish leaders united Quraish, Ghatafan and others into an army of 10,000. On Salman Al-Farisi's advice the Muslims dug a trench, and 3,000 Muslims held it.",
+      "The siege lasted over a month until discord among the allies and a cold, violent wind drove them away."
+    ],
+    "notes": "",
+    "hijri-date": "Shawwal - Dhul-Qa'dah 5 AH",
+    "start": "0627-02-23",
+    "end": "0627-04-22",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Al-Ahzab (the Confederates) Invasion",
+      "page": 200
+    }
+  },
+  {
+    "id": "banu-quraizah",
+    "title": "Siege of Banu Quraizah",
+    "commentary": [
+      "Banu Quraizah had betrayed the pact during the siege. They were besieged for twenty-five days and surrendered to the judgement of Sa'd bin Mu'adh, who soon died of his wound from the Trench."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 5 AH",
+    "start": "0627-03-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Invading Banu Quraiza",
+      "page": 203
+    }
+  },
+  {
+    "id": "marriage-zainab-jahsh",
+    "title": "Marriage to Zainab bint Jahsh",
+    "commentary": [
+      "His cousin Zainab, divorced by Zaid bin Harithah, was married to him by Allah's command (Al-Ahzab 33:37). This ended the pre-Islamic treatment of adopted sons as real sons."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 5 AH",
+    "start": "0627-03-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "abu-rafi",
+    "title": "Killing of Abu Rafi' Salam bin Abi Al-Huqaiq",
+    "commentary": [
+      "Abu Rafi', who had funded and rallied the Confederates, was killed in his fort near Khaibar by 'Abdullah bin 'Ateeq and four men of Al-Khazraj."
+    ],
+    "notes": "Dhul-Qa'dah or Dhul-Hijjah 5 AH.",
+    "hijri-date": "Dhul-Hijjah 5 AH",
+    "start": "0627-04-23",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Military Activities continued",
+      "page": 204
+    }
+  },
+  {
+    "id": "thumamah",
+    "title": "Expedition to Banu Bakr; Thumamah captured",
+    "commentary": [
+      "Muhammad bin Maslamah's thirty men raided Banu Bakr and brought back Thumamah bin Uthal, chief of Banu Hanifah. He was tied in the Mosque, freed, and then accepted Islam."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram 6 AH",
+    "start": "0627-05-23",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Military Activities continued",
+      "page": 204
+    }
+  },
+  {
+    "id": "banu-lihyan",
+    "title": "Ghazwah of Banu Lihyan",
+    "commentary": [
+      "He marched with 200 men to avenge the martyrs of Ar-Raji'. Banu Lihyan fled to the mountains, and the expedition lasted fourteen days."
+    ],
+    "notes": "Rabi' al-Awwal or Jumada al-Ula 6 AH.",
+    "hijri-date": "Rabi' al-Thani 6 AH",
+    "start": "0627-08-20",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani Lihyan Invasion",
+      "page": 205
+    }
+  },
+  {
+    "id": "al-ais-abul-as",
+    "title": "Zaid at Al-'Ais; Abul-'As returns to Zainab",
+    "commentary": [
+      "Zaid bin Harithah's 170 horsemen seized a Quraish caravan led by Abul-'As, the husband of the Prophet's daughter Zainab. Abul-'As sought her protection, the Muslims returned his goods, and he later accepted Islam and was reunited with her."
+    ],
+    "notes": "",
+    "hijri-date": "Jumada al-Ula 6 AH",
+    "start": "0627-09-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Expeditions and Delegations continued",
+      "page": 205
+    }
+  },
+  {
+    "id": "wadi-al-qura-zaid",
+    "title": "Zaid's patrol to Wadi Al-Qura",
+    "commentary": [
+      "A twelve-man patrol under Zaid was attacked at Wadi Al-Qura. Nine were killed and Zaid escaped."
+    ],
+    "notes": "",
+    "hijri-date": "Rajab 6 AH",
+    "start": "0627-11-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Expeditions and Delegations continued",
+      "page": 206
+    }
+  },
+  {
+    "id": "banu-mustaliq",
+    "title": "Ghazwah of Banu Al-Mustaliq (Al-Muraisi')",
+    "commentary": [
+      "News came on 2 Sha'ban that Al-Harith bin Dirar was gathering forces. The Muslims surprised Banu Al-Mustaliq at the Muraisi' spring and defeated them.",
+      "On the way back, 'Abdullah bin Ubai stirred up trouble between Emigrants and Helpers (Surah Al-Munafiqun)."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 6 AH",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Bani Al-Mustaliq (Muraisi‘) Ghazwah, Sha‘ban 6 Hijri",
+      "page": 207
+    }
+  },
+  {
+    "id": "marriage-juwairiyah",
+    "title": "Marriage to Juwairiyah bint Al-Harith",
+    "commentary": [
+      "He freed and married Juwairiyah, daughter of the chief of Banu Al-Mustaliq. In honour of the marriage, the Companions freed a hundred families of her people."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 6 AH",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "ifk",
+    "title": "The slander against 'Aishah (Al-Ifk)",
+    "commentary": [
+      "On the return from Al-Muraisi', 'Aishah was left behind looking for a necklace and was brought back by Safwan bin Al-Mu'attal. The hypocrites, led by Ibn Ubai, spread slander.",
+      "After about a month, verses of Surah An-Nur declared her innocence."
+    ],
+    "notes": "Approximate dates.",
+    "hijri-date": "Sha'ban - Ramadan 6 AH",
+    "start": "0627-12-16",
+    "end": "0628-02-12",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Slander Affair",
+      "page": 209
+    }
+  },
+  {
+    "id": "dumat-abdurrahman",
+    "title": "'Abdur-Rahman bin 'Awf at Dumat Al-Jandal",
+    "commentary": [
+      "'Abdur-Rahman invited Banu Kalb to Islam. They accepted, and he married their chief's daughter Tumadir."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 6 AH",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "fadak-ali",
+    "title": "'Ali's expedition to Banu Sa'd at Fadak",
+    "commentary": [
+      "'Ali raided Banu Sa'd bin Bakr, who were gathering to help the Jews of Khaibar, and took 500 camels and 2,000 goats."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 6 AH",
+    "start": "0627-12-16",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "wadi-al-qura-fazarah",
+    "title": "Expedition against Fazarah at Wadi Al-Qura",
+    "commentary": [
+      "After Fazarah tried to kill the Prophet, a force under Abu Bakr (or Zaid) attacked them at dawn and took captives, including Umm Qirfa."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 6 AH",
+    "start": "0628-01-14",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 211
+    }
+  },
+  {
+    "id": "hudaibiyah",
+    "title": "Treaty of Al-Hudaibiyah and Bai'at Ar-Ridwan",
+    "commentary": [
+      "Following a dream, he set out for 'Umrah with about 1,500 Muslims, unarmed except for sheathed swords. Quraish blocked the way at Al-Hudaibiyah.",
+      "When 'Uthman, sent as envoy, was rumoured killed, the Companions pledged under the tree to fight to the death (Bai'at Ar-Ridwan).",
+      "A ten-year truce was agreed: the Muslims would return now and perform 'Umrah the next year. Surah Al-Fath called it a manifest victory."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 6 AH",
+    "start": "0628-03-13",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 213
+    }
+  },
+  {
+    "id": "letters-to-kings",
+    "title": "Letters to kings and rulers",
+    "commentary": [
+      "With a silver seal reading \"Muhammad Messenger of Allah\", he sent envoys calling rulers to Islam: the Negus of Abyssinia, Al-Muqawqis of Egypt, Chosroes of Persia, Caesar (Heraclius), Al-Mundhir bin Sawa of Bahrain, Haudha of Al-Yamamah, Al-Harith Al-Ghassani of Damascus, and Jaifer and 'Abd of Oman.",
+      "Chosroes tore up his letter. Al-Muqawqis sent gifts, including Mariyah."
+    ],
+    "notes": "Planned on the return from Al-Hudaibiyah and sent in Muharram 7 AH, a few days before Khaibar.",
+    "hijri-date": "Muharram 7 AH",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet’s Plans to spread the Message of Islam beyond Arabia",
+      "page": 221
+    }
+  },
+  {
+    "id": "marriage-umm-habibah",
+    "title": "Marriage to Umm Habibah",
+    "commentary": [
+      "Umm Habibah, daughter of Abu Sufyan, had stayed Muslim in Abyssinia after her husband became a Christian and died. The Negus married her to the Prophet on his behalf and sent her to Madinah."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram 7 AH",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "dhu-qarad",
+    "title": "Ghazwah of Dhu Qarad (Al-Ghabah)",
+    "commentary": [
+      "Fazarah raiders drove off the Prophet's camels. Salamah bin Al-Akwa' pursued them alone on foot with arrows and recovered them."
+    ],
+    "notes": "Three days before Khaibar, according to most scholars.",
+    "hijri-date": "Muharram 7 AH",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Dhu Qarad Invasion",
+      "page": 231
+    }
+  },
+  {
+    "id": "khaibar",
+    "title": "Conquest of Khaibar",
+    "commentary": [
+      "He marched on the fortified Jewish centre of Khaibar, 60-80 miles north of Madinah, with 1,400 men. The forts fell one by one, and 'Ali took the banner.",
+      "The Jews were allowed to stay and farm the land for half its produce."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram - Safar 7 AH",
+    "start": "0628-05-11",
+    "end": "0628-07-08",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Conquest of Khaibar",
+      "page": 233
+    }
+  },
+  {
+    "id": "khalid-amr-islam",
+    "title": "Khalid bin Al-Waleed and 'Amr bin Al-'As accept Islam",
+    "commentary": [
+      "'Amr bin Al-'As, Khalid bin Al-Waleed and 'Uthman bin Talhah came to Madinah and accepted Islam. The Prophet said Quraish had given them its own blood."
+    ],
+    "notes": "The book places this early in 7 AH.",
+    "hijri-date": "7 AH",
+    "start": "0628-05-11",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Delegations and Expeditions following Al-Muraisi‘ Ghazwah",
+      "page": 219
+    }
+  },
+  {
+    "id": "jafar-returns",
+    "title": "Ja'far and the Abyssinia emigrants return",
+    "commentary": [
+      "Ja'far bin Abi Talib and the remaining emigrants arrived from Abyssinia as Khaibar was conquered, together with the Ash'ari Muslims."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Safar 7 AH",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 237
+    }
+  },
+  {
+    "id": "marriage-safiyah",
+    "title": "Marriage to Safiyah bint Huyai",
+    "commentary": [
+      "Safiyah, daughter of Huyai bin Akhtab, captured at Khaibar, was freed and married by the Prophet on the way back."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Safar 7 AH",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "poisoned-sheep",
+    "title": "The poisoned sheep at Khaibar",
+    "commentary": [
+      "Zainab bint Al-Harith, a Jewish woman, served him a poisoned roast sheep. He spat out his mouthful, but his Companion Bishr bin Al-Bara' died."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Safar 7 AH",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "fadak-wadi-qura",
+    "title": "Fadak surrenders; Wadi Al-Qura and Taima'",
+    "commentary": [
+      "Fadak asked for the same terms as Khaibar. Wadi Al-Qura was taken after a short fight, and Taima' made peace."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Safar 7 AH",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 238
+    }
+  },
+  {
+    "id": "daws-arrive",
+    "title": "At-Tufail arrives with the Daws",
+    "commentary": [
+      "At-Tufail bin 'Amr brought seventy or eighty Muslim families of Daws, including Abu Hurairah, and met the Prophet at Khaibar."
+    ],
+    "notes": "Early 7 AH.",
+    "hijri-date": "Safar 7 AH",
+    "start": "0628-06-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 286
+    }
+  },
+  {
+    "id": "return-from-khaibar",
+    "title": "Return to Madinah from Khaibar",
+    "commentary": [
+      "He returned to Madinah in late Safar or early Rabi' al-Awwal 7 AH."
+    ],
+    "notes": "",
+    "hijri-date": "1 Rabi' al-Awwal 7 AH",
+    "start": "0628-07-09",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Distribution of Spoils",
+      "page": 239
+    }
+  },
+  {
+    "id": "platoons-7ah",
+    "title": "Platoons of 7 AH",
+    "commentary": [
+      "Several small expeditions: Ghalib bin 'Abdullah against Banu Al-Muluh (Safar/Rabi' al-Awwal), 'Umar to Turbah (Sha'ban), Basheer bin Sa'd to Fadak (Sha'ban), Ghalib to Al-Mayfa'ah (Ramadan), and Basheer to Yemen and Jabar (Shawwal)."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal - Shawwal 7 AH",
+    "start": "0628-07-09",
+    "end": "0629-03-01",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Expedition called Dhat-ur-Riqa‘ (in the year 7 A.H.)",
+      "page": 241
+    }
+  },
+  {
+    "id": "dhat-ar-riqa",
+    "title": "Ghazwah of Dhat Ar-Riqa'",
+    "commentary": [
+      "He marched into Najd against bedouin tribes of Ghatafan. The Companions wrapped their injured feet in rags, which gave the expedition its name. The prayer of fear was performed."
+    ],
+    "notes": "The book prefers a date after Khaibar in 7 AH; some put it in 4 AH.",
+    "hijri-date": "Rabi' al-Thani 7 AH",
+    "start": "0628-08-08",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Expedition called Dhat-ur-Riqa‘ (in the year 7 A.H.)",
+      "page": 240
+    }
+  },
+  {
+    "id": "umrat-al-qada",
+    "title": "The Compensatory 'Umrah ('Umrat Al-Qada')",
+    "commentary": [
+      "As agreed at Al-Hudaibiyah, he entered Makkah with 2,000 Muslims and sixty sacrificial camels and stayed three days while Quraish watched from the hills."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 7 AH",
+    "start": "0629-03-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Compensatory ‘Umrah",
+      "page": 243
+    }
+  },
+  {
+    "id": "marriage-maimunah",
+    "title": "Marriage to Maimunah bint Al-Harith",
+    "commentary": [
+      "After the Compensatory 'Umrah he married Maimunah, sister of Umm Al-Fadl."
+    ],
+    "notes": "",
+    "hijri-date": "Dhul-Qa'dah 7 AH",
+    "start": "0629-03-02",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "shuja-hawazin",
+    "title": "Shuja' bin Wahb's expedition to Hawazin",
+    "commentary": [
+      "A minor expedition of twenty-five men against Hawazin. They met no resistance and took some booty."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal 8 AH",
+    "start": "0629-06-29",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Compensatory ‘Umrah",
+      "page": 244
+    }
+  },
+  {
+    "id": "mutah",
+    "title": "The Battle of Mu'tah",
+    "commentary": [
+      "After his envoy to Busra was killed by a Ghassanid governor, he sent 3,000 men under Zaid bin Harithah, then Ja'far, then 'Abdullah bin Rawaha.",
+      "They met a Byzantine and Arab army of up to 200,000. All three commanders were martyred, and Khalid bin Al-Waleed took command and withdrew the army with few losses."
+    ],
+    "notes": "The book gives September 629 CE.",
+    "hijri-date": "Jumada al-Ula 8 AH",
+    "start": "0629-08-27",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Mu’tah",
+      "page": 245
+    }
+  },
+  {
+    "id": "dhat-as-salasil",
+    "title": "Campaign of Dhat As-Salasil",
+    "commentary": [
+      "'Amr bin Al-'As led 300 men, later reinforced under Abu 'Ubaidah, against Quda'ah tribes allied with Byzantium on the Syrian border."
+    ],
+    "notes": "",
+    "hijri-date": "Jumada al-Akhirah 8 AH",
+    "start": "0629-09-26",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Battle of Mu’tah",
+      "page": 247
+    }
+  },
+  {
+    "id": "khadrah",
+    "title": "Expedition to Khadrah (Abu Qatadah)",
+    "commentary": [
+      "Abu Qatadah with fifteen men scattered a gathering of Ghatafan at Khadrah."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 8 AH",
+    "start": "0629-11-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Khadrah Campaign",
+      "page": 247
+    }
+  },
+  {
+    "id": "treaty-broken",
+    "title": "Quraish break the Hudaibiyah truce",
+    "commentary": [
+      "Banu Bakr, allies of Quraish, attacked Khuza'ah, allies of the Muslims, at Al-Wateer by night, with Quraish's men and weapons. Abu Sufyan's trip to Madinah to renew the truce failed."
+    ],
+    "notes": "",
+    "hijri-date": "Sha'ban 8 AH",
+    "start": "0629-11-24",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Pre-Conquest Events",
+      "page": 249
+    }
+  },
+  {
+    "id": "march-to-makkah",
+    "title": "The army marches on Makkah",
+    "commentary": [
+      "Keeping the destination secret, he left Madinah with 10,000 men. Al-'Abbas joined him on the way, and Abu Sufyan was brought to him at Marr Az-Zahran and accepted Islam."
+    ],
+    "notes": "",
+    "hijri-date": "10 Ramadan 8 AH",
+    "start": "0630-01-01",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 251
+    }
+  },
+  {
+    "id": "conquest-makkah",
+    "title": "The Conquest of Makkah",
+    "commentary": [
+      "The army entered Makkah in four columns with orders to fight only in self-defence. Anyone who stayed home, entered the Sanctuary or Abu Sufyan's house was safe.",
+      "He knocked down the 360 idols around the Ka'bah, had the images inside removed, and Bilal gave the call to prayer from its roof.",
+      "He pardoned the people of Makkah and stayed nineteen days."
+    ],
+    "notes": "The book gives Tuesday 17 Ramadan 8 AH as the day he left Marr Az-Zahran for Makkah.",
+    "hijri-date": "17 Ramadan 8 AH",
+    "start": "0630-01-09",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 252
+    }
+  },
+  {
+    "id": "idols-destroyed",
+    "title": "Al-'Uzza, Suwa' and Manat destroyed",
+    "commentary": [
+      "Khalid bin Al-Waleed destroyed Al-'Uzza at Nakhlah, 'Amr bin Al-'As destroyed Suwa' of Hudhail, and Sa'd bin Zaid destroyed Manat at Al-Mushallal."
+    ],
+    "notes": "Ramadan 8 AH.",
+    "hijri-date": "25 Ramadan 8 AH",
+    "start": "0630-01-16",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 256
+    }
+  },
+  {
+    "id": "banu-jadhimah",
+    "title": "Khalid among Banu Jadhimah",
+    "commentary": [
+      "Khalid was sent to invite Banu Jadhimah to Islam and killed some of them. The Prophet said twice that he was innocent of what Khalid had done and sent 'Ali to pay compensation."
+    ],
+    "notes": "Approximate date, after the conquest.",
+    "hijri-date": "1 Shawwal 8 AH",
+    "start": "0630-01-22",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Preparations for the Attack on Makkah, and the Prophet’s Attempt at imposing a",
+      "page": 256
+    }
+  },
+  {
+    "id": "hunain",
+    "title": "The Battle of Hunain",
+    "commentary": [
+      "Hawazin and Thaqif under Malik bin 'Awf gathered at Awtas. The Prophet marched with 12,000 men, 2,000 of them new Makkan Muslims.",
+      "Ambushed in the valley of Hunain, the army broke, until he stood firm and Al-'Abbas called the Companions back. The tide turned and the enemy was routed."
+    ],
+    "notes": "The army reached Hunain on the night of Wednesday 10 Shawwal.",
+    "hijri-date": "10 Shawwal 8 AH",
+    "start": "0630-01-31",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Islamic Army stunned the Archers and the Attackers",
+      "page": 260
+    }
+  },
+  {
+    "id": "taif-siege",
+    "title": "Siege of At-Ta'if",
+    "commentary": [
+      "The defeated Thaqif retreated to the fortified town of At-Ta'if. It was besieged for 10-20 days (some say forty) with catapults and the burning of vineyards, then the siege was lifted."
+    ],
+    "notes": "Approximate dates; Shawwal 8 AH.",
+    "hijri-date": "15 Shawwal - 5 Dhul-Qa'dah 8 AH",
+    "start": "0630-02-05",
+    "end": "0630-02-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Hot Pursuit of the Enemy",
+      "page": 262
+    }
+  },
+  {
+    "id": "jiranah",
+    "title": "Distribution of the booty at Al-Ji'ranah",
+    "commentary": [
+      "He waited over ten nights for Hawazin before dividing the spoils, giving generously to newly converted leaders.",
+      "The Helpers were upset until he reminded them that others would take sheep and camels while they went home with the Messenger of Allah. Hawazin's delegation came, and their captives were returned."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "5 Dhul-Qa'dah 8 AH",
+    "start": "0630-02-24",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Distribution of the Booty at Al-Ji‘ranah",
+      "page": 263
+    }
+  },
+  {
+    "id": "jiranah-umrah",
+    "title": "'Umrah from Al-Ji'ranah and return to Madinah",
+    "commentary": [
+      "He performed 'Umrah, appointed 'Attab bin Usaid governor of Makkah, and reached Madinah in the last six nights of Dhul-Qa'dah 8 AH."
+    ],
+    "notes": "",
+    "hijri-date": "24 Dhul-Qa'dah 8 AH",
+    "start": "0630-03-15",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Lesser Pilgrimage (Al-‘Umrah) to Makkah and leaving for Madinah",
+      "page": 266
+    }
+  },
+  {
+    "id": "kab-bin-zuhair",
+    "title": "Ka'b bin Zuhair accepts Islam",
+    "commentary": [
+      "The poet Ka'b bin Zuhair, who had satirised the Prophet, came after At-Ta'if, accepted Islam and recited his poem in praise of him."
+    ],
+    "notes": "Late 8 AH.",
+    "hijri-date": "Dhul-Hijjah 8 AH",
+    "start": "0630-03-22",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 287
+    }
+  },
+  {
+    "id": "zakat-collectors",
+    "title": "Zakat collectors sent to the tribes",
+    "commentary": [
+      "As soon as the crescent of Muharram 9 AH appeared, he sent collectors to the tribes, among them 'Uyaina bin Hisn to Banu Tamim, 'Adi bin Hatim to Tai' and Al-'Ala' Al-Hadrami to Bahrain."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram 9 AH",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Lesser Pilgrimage (Al-‘Umrah) to Makkah and leaving for Madinah",
+      "page": 268
+    }
+  },
+  {
+    "id": "platoons-9ah",
+    "title": "Platoons of 9 AH",
+    "commentary": [
+      "'Uyaina bin Hisn against Banu Tamim (Muharram), Qutbah bin 'Amir to Khath'am (Safar), Ad-Dahhak bin Sufyan to Banu Kilab (Rabi' al-Awwal), and 'Alqamah bin Mujazziz to the Jeddah coast (Rabi' al-Akhir)."
+    ],
+    "notes": "",
+    "hijri-date": "Muharram - Rabi' al-Thani 9 AH",
+    "start": "0630-04-20",
+    "end": "0630-08-15",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 268
+    }
+  },
+  {
+    "id": "umm-kulthum-dies",
+    "title": "Death of Umm Kulthum, his daughter",
+    "commentary": [
+      "His daughter Umm Kulthum, wife of 'Uthman, died. The Prophet grieved deeply."
+    ],
+    "notes": "",
+    "hijri-date": "9 AH",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Some Important Events that featured that Year",
+      "page": 280
+    }
+  },
+  {
+    "id": "year-of-delegations",
+    "title": "The Year of Delegations",
+    "commentary": [
+      "After the conquest of Makkah and Tabuk, more than seventy delegations came to Madinah to accept Islam or make terms, mostly in 9 and 10 AH, including Hamdan, Fazarah, Tujeeb, Tai' and the kings of Himyar."
+    ],
+    "notes": "",
+    "hijri-date": " 9 AH - Dhul-Hijjah 10 AH",
+    "start": "0630-04-20",
+    "end": "0632-03-28",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 286
+    }
+  },
+  {
+    "id": "najran",
+    "title": "The Christian delegation of Najran",
+    "commentary": [
+      "Sixty men from Najran came to debate about Jesus. He invited them to a mutual invocation of curses (mubahalah), Aal 'Imran 3:59-61. They declined and agreed to pay tribute instead."
+    ],
+    "notes": "",
+    "hijri-date": "9 AH",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 290
+    }
+  },
+  {
+    "id": "banu-hanifah",
+    "title": "Delegation of Banu Hanifah with Musailimah",
+    "commentary": [
+      "Seventeen men of Banu Hanifah came, including Musailimah, who later claimed prophethood in 10 AH and was killed in the battle of Al-Yamamah in 12 AH."
+    ],
+    "notes": "",
+    "hijri-date": "9 AH",
+    "start": "0630-04-20",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 291
+    }
+  },
+  {
+    "id": "udhrah-bali",
+    "title": "Delegations of 'Udhrah and Bali",
+    "commentary": [
+      "Twelve men of 'Udhrah came in Safar and the Bali delegation in Rabi' al-Awwal. Both accepted Islam and stayed three days."
+    ],
+    "notes": "",
+    "hijri-date": "Safar - Rabi' al-Awwal 9 AH",
+    "start": "0630-05-20",
+    "end": "0630-07-17",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 287
+    }
+  },
+  {
+    "id": "adi-bin-hatim",
+    "title": "'Ali destroys Al-Qullus; 'Adi bin Hatim accepts Islam",
+    "commentary": [
+      "'Ali led 150 men to destroy Al-Qullus (also known as Al-Fuls), the idol of Tai'. 'Adi bin Hatim fled to Syria, but his captive sister was freed and persuaded him to come to Madinah, where he accepted Islam."
+    ],
+    "notes": "",
+    "hijri-date": "Rabi' al-Awwal 9 AH",
+    "start": "0630-06-18",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 269
+    }
+  },
+  {
+    "id": "tabuk",
+    "title": "The Expedition of Tabuk",
+    "commentary": [
+      "On news of a Byzantine and Ghassanid build-up, he called a general mobilisation in hard times and great heat. 'Uthman and Abu Bakr gave generously, and 30,000 men marched north.",
+      "The Byzantines did not come out. He stayed twenty days at Tabuk and made treaties with Ailah, Jarba' and Adhruh. The expedition lasted fifty days."
+    ],
+    "notes": "",
+    "hijri-date": "Rajab - Ramadan 9 AH",
+    "start": "0630-10-14",
+    "end": "0631-01-10",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Platoons",
+      "page": 272
+    }
+  },
+  {
+    "id": "negus-dies",
+    "title": "Death of the Negus Ashamah",
+    "commentary": [
+      "The Negus of Abyssinia died, and the Prophet led the funeral prayer in his absence."
+    ],
+    "notes": "The book dates it to Rajab 9 AH, shortly after Tabuk.",
+    "hijri-date": "Rajab 9 AH",
+    "start": "0630-10-14",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "1. A Deputation to Abyssinia (Ethiopia)",
+      "page": 222
+    }
+  },
+  {
+    "id": "three-left-behind",
+    "title": "The three who stayed behind",
+    "commentary": [
+      "Ka'b bin Malik, Murarah bin Ar-Rabi' and Hilal bin Umaiyah admitted they had no excuse. They were boycotted for fifty days until their repentance was accepted (At-Tawbah 9:118)."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan - Dhul-Qa'dah 9 AH",
+    "start": "0630-12-12",
+    "end": "0631-03-10",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The People Who lagged Behind",
+      "page": 279
+    }
+  },
+  {
+    "id": "thaqif-delegation",
+    "title": "Thaqif accept Islam",
+    "commentary": [
+      "After their chief 'Urwah bin Mas'ud was killed by his own people for accepting Islam, Thaqif sent a delegation to Madinah and accepted Islam. A party under Khalid bin Al-Waleed, with Al-Mughirah bin Shu'bah, demolished the idol Al-Lat."
+    ],
+    "notes": "",
+    "hijri-date": "Ramadan 9 AH",
+    "start": "0630-12-12",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 288
+    }
+  },
+  {
+    "id": "ibn-ubai-dies",
+    "title": "Death of 'Abdullah bin Ubai",
+    "commentary": [
+      "The leader of the hypocrites died after Tabuk. The Prophet prayed over him despite 'Umar's objection, and a verse later supported 'Umar's view."
+    ],
+    "notes": "Approximate date.",
+    "hijri-date": "Shawwal 9 AH",
+    "start": "0631-01-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Some Important Events that featured that Year",
+      "page": 280
+    }
+  },
+  {
+    "id": "abu-bakr-hajj",
+    "title": "Abu Bakr leads the Hajj; Bara'ah proclaimed",
+    "commentary": [
+      "Abu Bakr led the pilgrimage. 'Ali followed with the opening of Surah At-Tawbah (Bara'ah) and announced that no polytheist could perform Hajj after that year, and no one could circle the Ka'bah naked."
+    ],
+    "notes": "Dhul-Qa'dah or Dhul-Hijjah 9 AH.",
+    "hijri-date": "Dhul-Hijjah 9 AH",
+    "start": "0631-03-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Abu Bakr [R] performs the Pilgrimage",
+      "page": 281
+    }
+  },
+  {
+    "id": "muadh-yemen",
+    "title": "Mu'adh bin Jabal sent to Yemen",
+    "commentary": [
+      "Sending Mu'adh to Yemen, he told him he might not see him again after that year, and might pass by his mosque and grave."
+    ],
+    "notes": "",
+    "hijri-date": "10 AH",
+    "start": "0631-04-09",
+    "period": "madinah",
+    "date-precision": "year",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 298
+    }
+  },
+  {
+    "id": "ibrahim-dies",
+    "title": "Death of his son Ibrahim",
+    "commentary": [
+      "Ibrahim, his son by Mariyah the Copt, died in Madinah as a small child."
+    ],
+    "notes": "",
+    "hijri-date": "28 or 29 Shawwal 10 AH",
+    "start": "0632-01-27",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "book",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet Household",
+      "page": 312
+    }
+  },
+  {
+    "id": "farewell-hajj",
+    "title": "The Farewell Pilgrimage (Hajjat Al-Wada')",
+    "commentary": [
+      "He announced his pilgrimage, and huge crowds came to Madinah to join him. He left on a Saturday at the end of Dhul-Qa'dah, entered the state of ihram at Dhul-Hulaifah, and reached Makkah on 4 Dhul-Hijjah.",
+      "He performed Hajj and 'Umrah together (Qiran). He went to Mina on the 8th and 'Arafah on the 9th, and left Mina on the 13th."
+    ],
+    "notes": "",
+    "hijri-date": "Late Dhul-Qa'dah - 13 Dhul-Hijjah 10 AH",
+    "start": "0632-02-22",
+    "end": "0632-03-11",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 298
+    }
+  },
+  {
+    "id": "arafah-sermon",
+    "title": "The Sermon at 'Arafah",
+    "commentary": [
+      "At Namirah he declared lives, property and honour sacred, abolished blood-feuds and usury of the pre-Islamic era, urged kindness to women, and left them the Book of Allah.",
+      "The verse \"This day I have perfected your religion for you\" (Al-Ma'idah 5:3) was revealed."
+    ],
+    "notes": "",
+    "hijri-date": "9 Dhul-Hijjah 10 AH",
+    "start": "0632-03-06",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 299
+    }
+  },
+  {
+    "id": "nahr-sermon",
+    "title": "The Sermon on the Day of Sacrifice",
+    "commentary": [
+      "At Mina he explained the sacred months and the inviolability of that day, month and city, and asked those present to pass the message on."
+    ],
+    "notes": "",
+    "hijri-date": "10 Dhul-Hijjah 10 AH",
+    "start": "0632-03-07",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Farewell Pilgrimage",
+      "page": 301
+    }
+  },
+  {
+    "id": "nakha-delegation",
+    "title": "The last delegation: An-Nakha'",
+    "commentary": [
+      "Two hundred men of An-Nakha' arrived in mid-Muharram 11 AH, the last delegation to reach him."
+    ],
+    "notes": "",
+    "hijri-date": "15 Muharram 11 AH",
+    "start": "0632-04-12",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Delegations",
+      "page": 294
+    }
+  },
+  {
+    "id": "usamah-army",
+    "title": "Usamah bin Zaid's army is raised",
+    "commentary": [
+      "He mobilised an army under the young Usamah bin Zaid to march to Al-Balqa' and Palestine. When some objected to his youth he insisted. The army was dispatched after his death by Abu Bakr."
+    ],
+    "notes": "",
+    "hijri-date": "Safar 11 AH",
+    "start": "0632-04-28",
+    "period": "madinah",
+    "date-precision": "month",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Last Expeditions",
+      "page": 303
+    }
+  },
+  {
+    "id": "uhud-farewell",
+    "title": "Farewell prayer for the martyrs of Uhud",
+    "commentary": [
+      "In early Safar he went to Uhud and prayed for the martyrs, as if saying goodbye to the living and the dead. He then told the people from the pulpit that he would be waiting for them at the Basin (Al-Hawd)."
+    ],
+    "notes": "Early Safar 11 AH.",
+    "hijri-date": "3 Safar 11 AH",
+    "start": "0632-04-30",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Symptoms of Farewell",
+      "page": 304
+    }
+  },
+  {
+    "id": "illness-begins",
+    "title": "His final illness begins",
+    "commentary": [
+      "Returning from a funeral at Al-Baqi' on a Monday, he developed a headache and high fever.",
+      "He led the prayers for eleven days while ill. His illness lasted thirteen or fourteen days, and he spent the last week in 'Aishah's room."
+    ],
+    "notes": "",
+    "hijri-date": "29 Safar 11 AH",
+    "start": "0632-05-25",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Start of the Disease",
+      "page": 304
+    }
+  },
+  {
+    "id": "abu-bakr-leads-prayer",
+    "title": "Abu Bakr leads the prayers",
+    "commentary": [
+      "When he could no longer go out, he ordered Abu Bakr to lead the people in prayer."
+    ],
+    "notes": "Approximate dates (last days of his life).",
+    "hijri-date": "8-12 Rabi' al-Awwal 11 AH",
+    "start": "0632-06-03",
+    "end": "0632-06-07",
+    "period": "madinah",
+    "date-precision": "approximate",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Four days before his death",
+      "page": 306
+    }
+  },
+  {
+    "id": "death",
+    "title": "Death of the Prophet ﷺ",
+    "commentary": [
+      "He died in the late morning in 'Aishah's room, saying \"the most exalted Companionship on high\". He was sixty-three years and four days old.",
+      "'Umar refused to believe it until Abu Bakr recited \"Muhammad is no more than a Messenger\" (Aal 'Imran 3:144)."
+    ],
+    "notes": "Monday 12 Rabi' al-Awwal 11 AH.",
+    "hijri-date": "12 Rabi' al-Awwal 11 AH",
+    "start": "0632-06-08",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "The Prophet [pbuh] breathes his Last",
+      "page": 309
+    }
+  },
+  {
+    "id": "caliphate-burial",
+    "title": "Abu Bakr chosen as Caliph; burial",
+    "commentary": [
+      "At the portico of Banu Sa'idah the Emigrants and Helpers agreed on Abu Bakr as Caliph.",
+      "On Tuesday his body was washed in his clothes. People prayed over him in groups of ten, and he was buried in 'Aishah's room, where he died, on the night before Wednesday."
+    ],
+    "notes": "",
+    "hijri-date": "12-14 Rabi' al-Awwal 11 AH (Monday to Wednesday night)",
+    "start": "0632-06-08",
+    "end": "0632-06-10",
+    "period": "madinah",
+    "date-precision": "day",
+    "date-basis": "calculated",
+    "source": {
+      "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
+      "section": "Burial and Farewell Preparations to his Honourable Body",
+      "page": 310
+    }
+  }
+]
