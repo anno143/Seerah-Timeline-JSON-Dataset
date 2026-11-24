@@ -43,15 +43,19 @@ Each file is a JSON array of events, sorted by `start`.
   "id": "badr",
   "title": "The Battle of Badr",
   "commentary": [
-    "Setting out after Abu Sufyan's caravan, 300-317 Muslims with two horses and seventy camels met an army of about 1,000 from Makkah.",
+    "Setting out after Abu Sufyan's caravan, 300-317 Muslims with two horses and seventy camels met a Makkan army of about 1,000 at Badr after the caravan had escaped.",
     "The Muslims won decisively: fourteen were martyred, while seventy polytheists, including Abu Jahl, were killed and seventy captured."
   ],
-  "notes": "The battle was on Friday 17 Ramadan.",
+  "notes": "The book says: 'That was Friday night, Ramadan 17th, the year 2 A.H.' The calculated date was moved to the Friday.",
   "hijri-date": "Friday 17 Ramadan 2 AH",
   "start": "0624-03-16",
   "period": "madinah",
   "date-precision": "day",
   "date-basis": "calculated",
+  "references": [
+    { "type": "quran", "surah": 8, "ayat": "9", "citation": "Al-Anfal 8:9" },
+    { "type": "hadith", "citation": "Sahih Al-Bukhari 1/444,2/568" }
+  ],
   "source": {
     "book": "Ar-Raheeq Al-Makhtum (The Sealed Nectar), Safiur-Rahman Al-Mubarakpuri, English tr. Issam Diab, Darussalam",
     "section": "Reason of the Battle",
@@ -60,7 +64,7 @@ Each file is a JSON array of events, sorted by `start`.
 }
 ```
 
-The same event in Arabic and Urdu keeps every field except the four text fields, which are translated:
+The same event in Arabic and Urdu keeps every field except the four text fields and each reference's `citation`, which are translated:
 
 ```json
 { "id": "badr", "title": "غزوة بدر", "hijri-date": "الجمعة 17 رمضان 2 هـ", ... }
@@ -79,9 +83,28 @@ The same event in Arabic and Urdu keeps every field except the four text fields,
 | `period` | string | no | `pre-prophethood`, `makkah` or `madinah` |
 | `date-precision` | string | no | `day`, `month`, `year` or `approximate` |
 | `date-basis` | string | no | `book` if the book prints this date, `calculated` if converted from its Hijri date |
+| `references` | object[] | partly | Qur'an verses, hadith and Seerah sources the book cites for this event; may be empty (see below) |
 | `source.book` | string | no | The edition used |
 | `source.section` | string | no | Section heading in the English edition |
 | `source.page` | int | no | Page number in the English edition |
+
+### References
+
+`references` lists the sources that *The Sealed Nectar* itself cites for the event: Qur'an verses, hadith collections and the Seerah works it quotes. Nothing is added that the book does not cite. Hadith and Seerah citations keep the volume/page or number exactly as the book prints it.
+
+```json
+"references": [
+  { "type": "quran", "surah": 74, "ayat": "1-5", "citation": "Al-Muddaththir 74:1-5" },
+  { "type": "hadith", "citation": "Sahih Al-Bukhari 1/2" },
+  { "type": "seerah", "citation": "Ibn Hisham 1/235" }
+]
+```
+
+| Field | Translated | Description |
+|---|---|---|
+| `type` | no | `quran`, `hadith` or `seerah` |
+| `surah`, `ayat` | no | Qur'an only: surah number and verse or range, e.g. `"1-5"` |
+| `citation` | yes | The reference written out in the file's language |
 
 ### About the dates
 
@@ -149,13 +172,14 @@ new vis.Timeline(document.getElementById("timeline"), items, { rtl: lang !== "en
 python tools/validate.py
 ```
 
-The script checks that every file parses, that all three languages have the same events in the same order, that dates and shared fields match, and that no text field is empty.
+The script checks that every file parses, that all three languages have the same events in the same order, that dates, shared fields and references match, and that no text field is empty.
 
 ## Sources and Method
 
 - **Source book:** *Ar-Raheeq Al-Makhtum (The Sealed Nectar)* by Safiur-Rahman Al-Mubarakpuri, English translation by Issam Diab, Darussalam. It was chosen because it is widely available in English, Arabic and Urdu.
 - **Summaries:** each `commentary` is a short summary written for this dataset, not a quotation from the book. Use `source.page` to read the full account.
-- **Translations:** the Arabic and Urdu text was translated from the English summaries for this dataset. Hijri dates in each language are generated from the same date data, so they always match.
+- **Translations:** the Arabic and Urdu text was translated from the English summaries for this dataset, then reviewed event by event against the book (see [docs/REVIEW.md](docs/REVIEW.md)). Hijri dates in each language are generated from the same date data, so they always match.
+- **References:** taken from the citations the book prints in brackets next to each passage.
 - **Gap in the source text:** the first-revelation section was missing from the text file used, so that event's date comes from the printed edition (see its `notes`).
 
 ## A Note on the Content

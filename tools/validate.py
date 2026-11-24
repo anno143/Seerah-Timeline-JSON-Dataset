@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 LANGS = ["en", "ar", "ur"]
 REQUIRED = ["id", "title", "commentary", "notes", "hijri-date", "start", "period",
-            "date-precision", "date-basis", "source"]
+            "date-precision", "date-basis", "references", "source"]
 SHARED = ["start", "end", "period", "date-precision", "date-basis", "source"]
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ENUMS = {
@@ -18,6 +18,12 @@ ENUMS = {
     "date-precision": {"day", "month", "year", "approximate"},
     "date-basis": {"book", "calculated"},
 }
+REF_TYPES = {"quran", "hadith", "seerah"}
+
+
+def ref_key(r):
+    """The language-neutral part of a reference."""
+    return (r.get("type"), r.get("surah"), r.get("ayat"))
 
 errors = []
 data = {}
@@ -48,6 +54,16 @@ for lang in LANGS:
                 errors.append(f"{where}: bad {k} {e[k]}")
         if "end" in e and e["end"] < e["start"]:
             errors.append(f"{where}: end before start")
+        refs = e.get("references", [])
+        if not isinstance(refs, list):
+            errors.append(f"{where}: references must be a list")
+            refs = []
+        for r in refs:
+            if r.get("type") not in REF_TYPES or not r.get("citation", "").strip():
+                errors.append(f"{where}: bad reference {r}")
+            if r.get("type") == "quran" and (not isinstance(r.get("surah"), int)
+                                             or not 1 <= r["surah"] <= 114 or not r.get("ayat")):
+                errors.append(f"{where}: quran reference needs surah 1-114 and ayat: {r}")
         for k, allowed in ENUMS.items():
             if e.get(k) not in allowed:
                 errors.append(f"{where}: {k}={e.get(k)!r} not in {sorted(allowed)}")
@@ -62,6 +78,8 @@ for lang in LANGS:
                 errors.append(f"{lang} {a['id']}: {k} differs from en")
         if len(a["commentary"]) != len(b["commentary"]):
             errors.append(f"{lang} {a['id']}: commentary has {len(b['commentary'])} items, en has {len(a['commentary'])}")
+        if [ref_key(r) for r in a["references"]] != [ref_key(r) for r in b["references"]]:
+            errors.append(f"{lang} {a['id']}: references differ from en in type, surah or ayat")
         if bool(a["notes"]) != bool(b["notes"]):
             errors.append(f"{lang} {a['id']}: notes present in one language only")
 
